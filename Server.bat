@@ -1,0 +1,1 @@
+"H:\UnrealEngine4.27rel\Engine\Binaries\Win64\UE4Editor.exe" "H:\Unreal projects\CounterStrike\CounterStrike.uproject" -game
