@@ -15,8 +15,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0f6e2f79-c4fa-4f8f-a714-3e8a4da88465" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CounterStrike.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/CounterStrike.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24H5m44apzXtQsF0rjTkywSo05N" />
   <component name="ProjectViewState">
@@ -43,7 +46,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.UnrealBuildTool">
+  <component name="RunManager" selected="C++ Project.CounterStrike">
     <configuration name="CounterStrike" type="CppProject" factoryName="C++ Project">
       <configuration_1>
         <option name="CONFIGURATION" value="DebugGame Editor" />
@@ -417,6 +420,14 @@
       <workItem from="1645087254439" duration="1193000" />
       <workItem from="1645094803931" duration="2041000" />
       <workItem from="1645429103181" duration="694000" />
+      <workItem from="1646803720005" duration="1033000" />
+      <workItem from="1646805917998" duration="1019000" />
+      <workItem from="1646807755719" duration="368000" />
+      <workItem from="1646811306443" duration="993000" />
+      <workItem from="1646820599017" duration="22000" />
+      <workItem from="1646821213405" duration="113000" />
+      <workItem from="1646822145339" duration="1047000" />
+      <workItem from="1646823380210" duration="7000" />
     </task>
     <servers />
   </component>
