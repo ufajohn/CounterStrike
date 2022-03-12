@@ -69,11 +69,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f6e2f79-c4fa-4f8f-a714-3e8a4da88465" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Source/CounterStrike/Private/CSGreenGameInstance.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/CounterStrike/Public/CSGreenGameInstance.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CounterStrike.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/CounterStrike.uproject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40431,6 +40427,8 @@
       <workItem from="1646838923382" duration="1183000" />
       <workItem from="1646841003599" duration="112000" />
       <workItem from="1646898105399" duration="2624000" />
+      <workItem from="1647093540012" duration="1138000" />
+      <workItem from="1647097262411" duration="652000" />
     </task>
     <servers />
   </component>
