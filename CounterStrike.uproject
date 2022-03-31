@@ -208,26 +208,12 @@
 			]
 		},
 		{
-			"Name": "MegascansPlugin",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
-		},
-		{
 			"Name": "AdvancedSessions",
 			"Enabled": true
 		},
 		{
 			"Name": "OnlineSubsystemGoogle",
 			"Enabled": true
-		},
-		{
-			"Name": "MobileUtils",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/94e8f674898a4589882c283436190676"
 		}
 	],
 	"TargetPlatforms": [
