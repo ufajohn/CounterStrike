@@ -1,1 +1,1 @@
-"I:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor.exe" "I:\Unreal projects\CounterStrike\CounterStrike.uproject" -server -log
+"F:\\UnrealEngine-4.27\Engine\Binaries\Win64\UE4Editor.exe" "F:\UnrealProjects\CounterStrike\CounterStrike.uproject" -server -log
