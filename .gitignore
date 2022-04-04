@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Server.bat
 CounterStrike.uproject
+Client.bat
+Client.bat.bak
