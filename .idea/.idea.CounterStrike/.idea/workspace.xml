@@ -69,10 +69,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f6e2f79-c4fa-4f8f-a714-3e8a4da88465" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Client.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/CS_GameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/CS_GameInstance.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PC_MainMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PC_MainMenu.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Widgets/W_MainMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Widgets/W_MainMenu.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CounterStrike.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/CounterStrike.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Server.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40435,6 +40435,7 @@
       <workItem from="1648969684339" duration="1327000" />
       <workItem from="1648971110735" duration="4749000" />
       <workItem from="1648988547005" duration="2086000" />
+      <workItem from="1649657969892" duration="35000" />
     </task>
     <servers />
   </component>
