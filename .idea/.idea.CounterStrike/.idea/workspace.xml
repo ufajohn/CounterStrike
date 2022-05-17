@@ -69,10 +69,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f6e2f79-c4fa-4f8f-a714-3e8a4da88465" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/MainMenu.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/MainMenu.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Widgets/W_MainMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Widgets/W_MainMenu.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CounterStrike.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/CounterStrike.uproject" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Server.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Server.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/CounterStrike/CounterStrike.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CounterStrike/CounterStrike.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/CounterStrike/CounterStrike.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CounterStrike/CounterStrike.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40436,6 +40441,13 @@
       <workItem from="1648971110735" duration="4749000" />
       <workItem from="1648988547005" duration="2086000" />
       <workItem from="1649657969892" duration="35000" />
+      <workItem from="1651035856265" duration="3050000" />
+      <workItem from="1651040278444" duration="682000" />
+      <workItem from="1651051725647" duration="2000" />
+      <workItem from="1651053810657" duration="3231000" />
+      <workItem from="1651838129038" duration="619000" />
+      <workItem from="1652271041022" duration="594000" />
+      <workItem from="1652273508414" duration="246000" />
     </task>
     <servers />
   </component>
