@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "{397B305B-4E2A-2440-0A00-98BF902D4C52}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -41,10 +41,6 @@
 		},
 		{
 			"Name": "AudioCapture",
-			"Enabled": false
-		},
-		{
-			"Name": "CableComponent",
 			"Enabled": false
 		},
 		{
@@ -221,8 +217,24 @@
 		},
 		{
 			"Name": "VaRest",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
+		},
+		{
+			"Name": "OnlineSubsystemEOS",
+			"Enabled": true
+		},
+		{
+			"Name": "EOSVoiceChat",
+			"Enabled": true
+		},
+		{
+			"Name": "EOSShared",
+			"Enabled": true
+		},
+		{
+			"Name": "MySQLConnectorUE4Plugin",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
