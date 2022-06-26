@@ -87,23 +87,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f6e2f79-c4fa-4f8f-a714-3e8a4da88465" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Client.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Client.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/CS_GameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/CS_GameInstance.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/Covid19.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Covid19.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/MainMenu.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/MainMenu.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/MPS_V2/Game/Blueprints/Data/MPS_Controller.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MPS_V2/Game/Blueprints/Data/MPS_Controller.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/MPS_V2/Game/Blueprints/MPS_MasterBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MPS_V2/Game/Blueprints/MPS_MasterBP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Widgets/W_MainMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Widgets/W_MainMenu.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Widgets/W_Server.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Widgets/W_Server.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CounterStrike.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/CounterStrike.uproject" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/CounterStrike/CounterStrike.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CounterStrike/CounterStrike.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/CounterStrike/Private/CSGreenGameInstance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CounterStrike/Private/CSGreenGameInstance.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/CounterStrike/Public/CSGreenGameInstance.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CounterStrike/Public/CSGreenGameInstance.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40482,6 +40468,7 @@
       <workItem from="1655025147251" duration="964000" />
       <workItem from="1655026910103" duration="3978000" />
       <workItem from="1655033893133" duration="4291000" />
+      <workItem from="1656242863077" duration="12621000" />
     </task>
     <servers />
   </component>
