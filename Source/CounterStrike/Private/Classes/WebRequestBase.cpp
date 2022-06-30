@@ -3,25 +3,26 @@
 
 #include "Classes/WebRequestBase.h"
 
+
 DEFINE_LOG_CATEGORY(LogWebRequest);
 
 bool UWebRequestBase::CallWebScript(const FString& ScriptURL, TSharedPtr<FJsonObject>& JsonRequest,
 	EWebRequestType RequestType)
 {
 	if(!Http) Http = &FHttpModule::Get();
-	TShaderRef<IHttpRequest> IhttpRequest = Http->CreateRequest();
+	TSharedRef<IHttpRequest> IHttpRequest = Http->CreateRequest();
 	FString ResultURL = "http://";
 	if(bUsingSSL) ResultURL = "https://";
 	ResultURL += ScriptURL;
 
-	if(RequestType == EWebRequestType::Post) InitRequest(IhttpRequest, "Post", ResultURL);
-	else InitRequest(IhttpRequest, "Get", ResultURL);
+	if(RequestType == EWebRequestType::Post) InitRequest(IHttpRequest, "Post", ResultURL);
+	else InitRequest(IHttpRequest, "Get", ResultURL);
 	TSharedRef<TJsonWriter<>> Json_Writer = TJsonWriterFactory<>::Create(&JsonStream);
 	FJsonSerializer::Serialize(JsonRequest.ToSharedRef(), Json_Writer);
-	IhttpRequest->SetContentAsString(JsonStream);
+	IHttpRequest->SetContentAsString(JsonStream);
 
 	UE_LOG(LogWebRequest, Log, TEXT("Request json data to '%s'." ), ResultURL);
-	IhttpRequest->ProcessRequest();
+	IHttpRequest->ProcessRequest();
 	
 	return true;
 }

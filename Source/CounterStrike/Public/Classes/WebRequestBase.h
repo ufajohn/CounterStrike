@@ -9,6 +9,7 @@
 #include "Serialization/JsonSerializer.h"
 #include "WebRequestBase.generated.h"
 
+
 DECLARE_LOG_CATEGORY_EXTERN(LogWebRequest, Log, All);
 
 
@@ -24,24 +25,18 @@ UCLASS()
 class COUNTERSTRIKE_API UWebRequestBase : public UObject
 {
 	GENERATED_BODY()
-
-protected:
-
+	
+protected:	
 	bool CallWebScript(const FString& ScriptURL, TSharedPtr<FJsonObject>& JsonRequest, EWebRequestType RequestType = EWebRequestType::Post);
-
+	
 	TSharedPtr<FJsonObject> CreateJsonRequest();
-	
-	virtual void CallJsonResponse(const TSharedPtr<FJsonObject>& JsonResponse){}
-	virtual void CallJsonFail(){}
-	virtual void OnResponseReceived(FHttpRequestPtr Request, FHttpResponsePtr Response, bool WasSuccessful);
+	virtual void CallJsonResponse(const TSharedPtr<FJsonObject>& JsonResponse) {};
+	virtual void CallJsonFail() {};
+	virtual void OnResponseReceived(FHttpRequestPtr Request, FHttpResponsePtr Response, bool WasSuccessful);	
 
-private:
-	
+private:	
 	void InitRequest(TSharedRef<IHttpRequest>& Request,const FString& RequestType, const FString& ScriptURL);
-
-	FHttpModule* Http;
+	FHttpModule *Http;
 	FString JsonStream = "JsonStream";
-
-	bool bUsingSSL = false;
-	
+	bool bUsingSSL = false;	
 };
