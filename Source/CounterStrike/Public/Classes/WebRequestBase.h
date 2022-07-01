@@ -10,7 +10,7 @@
 #include "WebRequestBase.generated.h"
 
 
-DECLARE_LOG_CATEGORY_EXTERN(LogWebRequest, Log, All);
+//DECLARE_LOG_CATEGORY_EXTERN(LogWebRequest, Log, All);
 
 
 UENUM()
@@ -35,7 +35,7 @@ protected:
 	virtual void OnResponseReceived(FHttpRequestPtr Request, FHttpResponsePtr Response, bool WasSuccessful);	
 
 private:	
-	void InitRequest(TSharedRef<IHttpRequest>& Request,const FString& RequestType, const FString& ScriptURL);
+	void InitRequest(TSharedRef<IHttpRequest, ESPMode::ThreadSafe> &Request, const FString& RequestType, const FString& ScriptURL);
 	FHttpModule *Http;
 	FString JsonStream = "JsonStream";
 	bool bUsingSSL = false;	

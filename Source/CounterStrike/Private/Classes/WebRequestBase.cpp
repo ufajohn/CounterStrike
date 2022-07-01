@@ -4,13 +4,14 @@
 #include "Classes/WebRequestBase.h"
 
 
-DEFINE_LOG_CATEGORY(LogWebRequest);
+//DEFINE_LOG_CATEGORY(LogWebRequest);
 
 bool UWebRequestBase::CallWebScript(const FString& ScriptURL, TSharedPtr<FJsonObject>& JsonRequest,
 	EWebRequestType RequestType)
 {
+	
 	if(!Http) Http = &FHttpModule::Get();
-	TSharedRef<IHttpRequest> IHttpRequest = Http->CreateRequest();
+	TSharedRef<IHttpRequest, ESPMode::ThreadSafe> IHttpRequest = Http->CreateRequest();
 	FString ResultURL = "http://";
 	if(bUsingSSL) ResultURL = "https://";
 	ResultURL += ScriptURL;
@@ -21,7 +22,7 @@ bool UWebRequestBase::CallWebScript(const FString& ScriptURL, TSharedPtr<FJsonOb
 	FJsonSerializer::Serialize(JsonRequest.ToSharedRef(), Json_Writer);
 	IHttpRequest->SetContentAsString(JsonStream);
 
-	UE_LOG(LogWebRequest, Log, TEXT("Request json data to '%s'." ), ResultURL);
+	//UE_LOG(LogWebRequest, Log, TEXT("Request json data to '%s'." ), ResultURL);
 	IHttpRequest->ProcessRequest();
 	
 	return true;
@@ -40,7 +41,7 @@ void UWebRequestBase::OnResponseReceived(FHttpRequestPtr Request, FHttpResponseP
 		TSharedPtr<FJsonObject> JsonObject;
 		TSharedRef<TJsonReader<TCHAR>> Reader = TJsonReaderFactory<TCHAR>::Create(Response->GetContentAsString());
 
-		UE_LOG(LogWebRequest, Log, TEXT("[OnResponseReceived] Response json: \n%s"), *Response->GetContentAsString());
+		//UE_LOG(LogWebRequest, Log, TEXT("[OnResponseReceived] Response json: \n%s"), *Response->GetContentAsString());
 
 		if(FJsonSerializer::Deserialize(Reader, JsonObject))
 		{
@@ -48,7 +49,7 @@ void UWebRequestBase::OnResponseReceived(FHttpRequestPtr Request, FHttpResponseP
 		}
 		else
 		{
-			UE_LOG(LogWebRequest, Error, TEXT("[OnResponseReceived] Fail to deserialize json!"))
+			//UE_LOG(LogWebRequest, Error, TEXT("[OnResponseReceived] Fail to deserialize json!"))
 			CallJsonFail();
 		}
 	}
@@ -58,7 +59,7 @@ void UWebRequestBase::OnResponseReceived(FHttpRequestPtr Request, FHttpResponseP
 	}
 }
 
-void UWebRequestBase::InitRequest(TSharedRef<IHttpRequest>& Request, const FString& RequestType, const FString& ScriptURL)
+void UWebRequestBase::InitRequest(TSharedRef<IHttpRequest, ESPMode::ThreadSafe>& Request, const FString& RequestType, const FString& ScriptURL)
 {
 	Request->OnProcessRequestComplete().BindUObject(this, &UWebRequestBase::OnResponseReceived);
 	Request->SetURL(ScriptURL);
