@@ -13,6 +13,7 @@ class COUNTERSTRIKE_API UCSGreenGameInstance : public UGameInstance
 	GENERATED_BODY()
 
 public:
+
 	UCSGreenGameInstance();
 	
 	virtual void Init() override;
