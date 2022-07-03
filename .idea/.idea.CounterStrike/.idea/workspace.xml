@@ -88,8 +88,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0f6e2f79-c4fa-4f8f-a714-3e8a4da88465" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CounterStrike/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Client.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/CounterStrike/CounterStrike.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CounterStrike/CounterStrike.Build.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40469,6 +40467,7 @@
       <workItem from="1655026910103" duration="3978000" />
       <workItem from="1655033893133" duration="4291000" />
       <workItem from="1656242863077" duration="12621000" />
+      <workItem from="1656871577349" duration="6265000" />
     </task>
     <servers />
   </component>
