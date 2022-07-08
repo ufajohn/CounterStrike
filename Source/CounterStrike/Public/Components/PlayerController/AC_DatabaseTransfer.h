@@ -21,7 +21,9 @@ public:
 	void RegisterUser(const FRegisterUserData& RegisterUserData, const FDelegateCallbackRequestRegisterUser& Callback);
 
 private:
+	UFUNCTION()
 	void WebResponseRegisterUser(bool Success, const TArray<FServersInfo>& ServersInfo);
 	FCallbackRequestRegisterUser CallbackRequestRegisterUser;
+	FString RegisterUserURL;
 	
 };

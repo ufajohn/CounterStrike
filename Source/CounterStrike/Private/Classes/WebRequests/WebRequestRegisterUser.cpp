@@ -5,11 +5,10 @@
 
 #include "Structs/ServersInfoStruct.h"
 
-UWebRequestRegisterUser* UWebRequestRegisterUser::Create(UObject* Owner, const FRegisterUserData& Data,
-                                                         const FDelegateCallbackRequestRegisterUser& Callback)
+UWebRequestRegisterUser* UWebRequestRegisterUser::Create(UObject* Owner, const FString& ScriptURL, const FRegisterUserData& Data, const FDelegateCallbackRequestRegisterUser& Callback)
 {
 	UWebRequestRegisterUser* Obj = NewObject<UWebRequestRegisterUser>(Owner);
-	Obj->Init(Data, Callback);
+	Obj->Init(ScriptURL, Data, Callback);
 	return  Obj;	
 }
 
@@ -43,7 +42,7 @@ void UWebRequestRegisterUser::CallJsonFail()
 	bool Result = CallbackRequestRegisterUser.DelegateCallbackRequestRegisterUser.ExecuteIfBound(false, TArray<FServersInfo>());
 }
 
-void UWebRequestRegisterUser::Init(const FRegisterUserData& Data, const FDelegateCallbackRequestRegisterUser& Callback)
+void UWebRequestRegisterUser::Init(const FString& ScriptURL, const FRegisterUserData& Data, const FDelegateCallbackRequestRegisterUser& Callback)
 {
 	CallbackRequestRegisterUser.DelegateCallbackRequestRegisterUser = Callback;
 	
@@ -51,6 +50,6 @@ void UWebRequestRegisterUser::Init(const FRegisterUserData& Data, const FDelegat
 	Json->SetStringField("UserLogin", Data.Login);
 	Json->SetStringField("UserPassword", Data.Password);
 
-	CallWebScript("worldgreenplace.ddns.net/registeruser.php", Json);
+	CallWebScript(ScriptURL, Json);
 	
 }

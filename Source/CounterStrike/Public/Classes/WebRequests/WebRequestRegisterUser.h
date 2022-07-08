@@ -18,14 +18,14 @@ class COUNTERSTRIKE_API UWebRequestRegisterUser : public UWebRequestBase
 	GENERATED_BODY()
 public:
 
-	static  UWebRequestRegisterUser* Create(UObject* Owner, const FRegisterUserData& Data, const FDelegateCallbackRequestRegisterUser& Callback);
+	static  UWebRequestRegisterUser* Create(UObject* Owner, const FString& ScriptURL, const FRegisterUserData& Data, const FDelegateCallbackRequestRegisterUser& Callback);
 
 	protected:
 		virtual void CallJsonResponse(const TSharedPtr<FJsonObject>& JsonResponse) override;
 		virtual void CallJsonFail() override;
 
 	private:
-		void Init(const FRegisterUserData& Data, const FDelegateCallbackRequestRegisterUser& Callback);
+		void Init(const FString& ScriptURL, const FRegisterUserData& Data, const FDelegateCallbackRequestRegisterUser& Callback);
 		FCallbackRequestRegisterUser CallbackRequestRegisterUser;
 
 	

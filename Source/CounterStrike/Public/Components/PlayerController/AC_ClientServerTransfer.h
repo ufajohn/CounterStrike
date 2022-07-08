@@ -33,6 +33,7 @@ protected:
 	virtual void BeginPlay() override;	
 
 private:
+	UFUNCTION()
 	void ResponseRegisterUserFromDB(bool Success, const TArray<FServersInfo>& ServersInfo);
 	FCallbackRequestRegisterUser CallbackRequestRegisterUser;
 		

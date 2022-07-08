@@ -5,6 +5,7 @@
 UAC_DatabaseTransfer::UAC_DatabaseTransfer()
 {
 	PrimaryComponentTick.bCanEverTick = false;
+	RegisterUserURL = "worldgreenplace.ddns.net/phpscripts/RegisterUser.php";
 }
 
 void UAC_DatabaseTransfer::RegisterUser(const FRegisterUserData& RegisterUserData, const FDelegateCallbackRequestRegisterUser& Callback)
@@ -15,7 +16,7 @@ void UAC_DatabaseTransfer::RegisterUser(const FRegisterUserData& RegisterUserDat
 	FDelegateCallbackRequestRegisterUser DelegateCallbackRequestRegisterUser;
 	DelegateCallbackRequestRegisterUser.BindUFunction(this, "WebResponseRegisterUser");
 	
-	UWebRequestRegisterUser* Obj = UWebRequestRegisterUser::Create(GetOwner(), RegisterUserData, DelegateCallbackRequestRegisterUser);
+	UWebRequestRegisterUser* Obj = UWebRequestRegisterUser::Create(GetOwner(), RegisterUserURL, RegisterUserData, DelegateCallbackRequestRegisterUser);
 	if(!Obj)
 	{
 		UE_LOG(LogTemp, Error, TEXT("Fail to create object 'UWebRequestRegisterUser'!"));
