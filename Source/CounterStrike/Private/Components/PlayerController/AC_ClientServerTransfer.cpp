@@ -14,6 +14,11 @@ UAC_ClientServerTransfer::UAC_ClientServerTransfer()
 }
 
 
+void UAC_ClientServerTransfer::Client_ResponseRegisterUser_Implementation(bool Success,	const TArray<FServersInfo>& ServersInfo)
+{
+	bool Result = CallbackRequestRegisterUser.DelegateCallbackRequestRegisterUser.ExecuteIfBound(Success, ServersInfo);	
+}
+
 // Called when the game starts
 void UAC_ClientServerTransfer::BeginPlay()
 {
@@ -24,6 +29,11 @@ void UAC_ClientServerTransfer::BeginPlay()
 }
 
 
+void UAC_ClientServerTransfer::ResponseRegisterUserFromDB(bool Success, const TArray<FServersInfo>& ServersInfo)
+{
+	Client_ResponseRegisterUser(Success, ServersInfo);
+}
+
 // Called every frame
 void UAC_ClientServerTransfer::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
@@ -32,8 +42,7 @@ void UAC_ClientServerTransfer::TickComponent(float DeltaTime, ELevelTick TickTyp
 	// ...
 }
 
-void UAC_ClientServerTransfer::RequestRegisterUser(const FRegisterUserData& RegisterUserData,
-	const FDelegateCallbackRequestRegisterUser& Callback)
+void UAC_ClientServerTransfer::RequestRegisterUser(const FRegisterUserData& RegisterUserData, const FDelegateCallbackRequestRegisterUser& Callback)
 {
 	CallbackRequestRegisterUser.DelegateCallbackRequestRegisterUser = Callback;
 

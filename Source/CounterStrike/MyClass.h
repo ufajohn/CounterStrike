@@ -3,13 +3,13 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "CB_Delegate.h"
+
 
 /**
  * 
  */
 class COUNTERSTRIKE_API MyClass
 {
-public:
-	MyClass();
-	~MyClass();
+
 };

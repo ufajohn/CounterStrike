@@ -11,6 +11,7 @@ USTRUCT(BlueprintType)
 struct FRegisterUserData
 {
 	GENERATED_BODY()
+	FRegisterUserData(): Login("testLogin"), Password("testPassword"){}
 	
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	FString Login;

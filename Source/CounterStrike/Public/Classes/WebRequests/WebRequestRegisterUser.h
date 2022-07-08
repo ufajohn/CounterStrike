@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Classes/WebRequestBase.h"
 #include "Classes/Callbacks/CB_RegisterUser.h"
 #include "Structs/RegisterUserStruct.h"
 #include "UObject/NoExportTypes.h"
@@ -12,11 +13,20 @@
  * 
  */
 UCLASS()
-class COUNTERSTRIKE_API UWebRequestRegisterUser : public UObject
+class COUNTERSTRIKE_API UWebRequestRegisterUser : public UWebRequestBase
 {
 	GENERATED_BODY()
 public:
 
-	static  UWebRequestRegisterUser* Create(FRegisterUserData& Data, const FDelegateCallbackRequestRegisterUser&);
+	static  UWebRequestRegisterUser* Create(UObject* Owner, const FRegisterUserData& Data, const FDelegateCallbackRequestRegisterUser& Callback);
+
+	protected:
+		virtual void CallJsonResponse(const TSharedPtr<FJsonObject>& JsonResponse) override;
+		virtual void CallJsonFail() override;
+
+	private:
+		void Init(const FRegisterUserData& Data, const FDelegateCallbackRequestRegisterUser& Callback);
+		FCallbackRequestRegisterUser CallbackRequestRegisterUser;
+
 	
 };

@@ -15,19 +15,13 @@ class COUNTERSTRIKE_API UAC_DatabaseTransfer : public UActorComponent
 	GENERATED_BODY()
 
 public:	
-	// Sets default values for this component's properties
+	
 	UAC_DatabaseTransfer();
-
-protected:
-	// Called when the game starts
-	virtual void BeginPlay() override;
-
-public:	
-	// Called every frame
-	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
-
+	
 	void RegisterUser(const FRegisterUserData& RegisterUserData, const FDelegateCallbackRequestRegisterUser& Callback);
 
-private: FCallbackRequestRegisterUser CallbackRequestRegisterUser;
+private:
+	void WebResponseRegisterUser(bool Success, const TArray<FServersInfo>& ServersInfo);
+	FCallbackRequestRegisterUser CallbackRequestRegisterUser;
 	
 };

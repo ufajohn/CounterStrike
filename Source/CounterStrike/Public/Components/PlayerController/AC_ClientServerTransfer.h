@@ -15,7 +15,7 @@ class COUNTERSTRIKE_API UAC_ClientServerTransfer : public UActorComponent
 	GENERATED_BODY()
 
 public:	
-	// Sets default values for this component's properties
+	
 	UAC_ClientServerTransfer();
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
@@ -25,11 +25,15 @@ public:
 	UFUNCTION(Server, Reliable)
 	void Server_RequestRegisterUser(const FRegisterUserData& RegisterUserData);
 
+	UFUNCTION(Client, Reliable)
+	void Client_ResponseRegisterUser(bool Success, const TArray<FServersInfo>& ServersInfo);
 	
 protected:
 	// Called when the game starts
-	virtual void BeginPlay() override;
+	virtual void BeginPlay() override;	
 
+private:
+	void ResponseRegisterUserFromDB(bool Success, const TArray<FServersInfo>& ServersInfo);
 	FCallbackRequestRegisterUser CallbackRequestRegisterUser;
 		
 };

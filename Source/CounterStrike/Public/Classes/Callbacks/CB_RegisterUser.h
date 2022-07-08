@@ -3,9 +3,10 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Structs/ServersInfoStruct.h"
 #include "CB_RegisterUser.generated.h"
 
-DECLARE_DYNAMIC_DELEGATE_TwoParams(FDelegateCallbackRequestRegisterUser, bool, Success, const TArray<int32>&, ServerList);
+DECLARE_DYNAMIC_DELEGATE_TwoParams(FDelegateCallbackRequestRegisterUser, bool, Success, const TArray<FServersInfo>&, ServerList);
 
 USTRUCT()
 struct FCallbackRequestRegisterUser
