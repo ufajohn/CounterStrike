@@ -20,13 +20,11 @@ public:
 
 	static  UWebRequestRegisterUser* Create(UObject* Owner, const FString& ScriptURL, const FRegisterUserData& Data, const FDelegateCallbackRequestRegisterUser& Callback);
 
-	protected:
+protected:
 		virtual void CallJsonResponse(const TSharedPtr<FJsonObject>& JsonResponse) override;
 		virtual void CallJsonFail() override;
 
-	private:
+private:
 		void Init(const FString& ScriptURL, const FRegisterUserData& Data, const FDelegateCallbackRequestRegisterUser& Callback);
-		FCallbackRequestRegisterUser CallbackRequestRegisterUser;
-
-	
+		FCallbackRequestRegisterUser CallbackRequestRegisterUser;	
 };

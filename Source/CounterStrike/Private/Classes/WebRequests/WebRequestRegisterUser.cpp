@@ -16,23 +16,23 @@ void UWebRequestRegisterUser::CallJsonResponse(const TSharedPtr<FJsonObject>& Js
 {
 	//Super::CallJsonResponse(JsonResponse);
 	bool Success = JsonResponse->GetBoolField("Success");
-	TArray<FServersInfo> ServerInfo;
+	TArray<FServersInfo> ServersInfo;
 	if(!Success)
 	{
-		bool Result = CallbackRequestRegisterUser.DelegateCallbackRequestRegisterUser.ExecuteIfBound(Success, ServerInfo);
+		bool Result = CallbackRequestRegisterUser.DelegateCallbackRequestRegisterUser.ExecuteIfBound(Success, ServersInfo);
 		return;
 	}
 	TArray<FString> Names;
-	TArray<FString> Address;
+	TArray<FString> Addresses;
 
 	JsonResponse->TryGetStringArrayField("ServerNames", Names);
-	JsonResponse->TryGetStringArrayField("ServerAddress", Address);
+	JsonResponse->TryGetStringArrayField("ServerAddresses", Addresses);
 
 	for(int32 i = 0; i < Names.Num(); i++)
 	{
-		ServerInfo.Add(FServersInfo(Names[i], Address[i]));
+		ServersInfo.Add(FServersInfo(Names[i], Addresses[i]));
 	}
-	bool Result = CallbackRequestRegisterUser.DelegateCallbackRequestRegisterUser.ExecuteIfBound(Success, ServerInfo);
+	bool Result = CallbackRequestRegisterUser.DelegateCallbackRequestRegisterUser.ExecuteIfBound(Success, ServersInfo);
 	
 }
 

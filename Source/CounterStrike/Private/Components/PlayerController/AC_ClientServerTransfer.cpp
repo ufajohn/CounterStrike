@@ -53,8 +53,7 @@ void UAC_ClientServerTransfer::Server_RequestRegisterUser_Implementation(const F
 {
 	FDelegateCallbackRequestRegisterUser DelegateCallbackRequestRegisterUser;
 	DelegateCallbackRequestRegisterUser.BindUFunction(this, "ResponseRegisterUserFromDB");
-	//todo создать ResponseRegisterUserFromDB
-
+	
 	UAC_DatabaseTransfer* DatabaseTransfer = GetOwner()->FindComponentByClass<UAC_DatabaseTransfer>();
 	if(DatabaseTransfer)
 	{

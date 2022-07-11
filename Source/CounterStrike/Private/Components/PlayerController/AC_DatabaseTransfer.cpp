@@ -5,7 +5,7 @@
 UAC_DatabaseTransfer::UAC_DatabaseTransfer()
 {
 	PrimaryComponentTick.bCanEverTick = false;
-	RegisterUserURL = "worldgreenplace.ddns.net/phpscripts/RegisterUser.php";
+	RegisterUserURL = "localhost/RegisterUser.php";
 }
 
 void UAC_DatabaseTransfer::RegisterUser(const FRegisterUserData& RegisterUserData, const FDelegateCallbackRequestRegisterUser& Callback)
