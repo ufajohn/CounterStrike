@@ -6,6 +6,7 @@
 #include "Classes/Callbacks/Cb_CreateServerInDatabase.h"
 #include "Classes/Callbacks/Cb_RequestGameServerAddress.h"
 #include "Components/ActorComponent.h"
+#include "Structs/ServerPrivatInfoStruct.h"
 #include "AC_GameServerDatabase.generated.h"
 
 
@@ -36,6 +37,8 @@ public:
 
 private:
 	void GetServerDataFromDB();
+
+	void ShutDownServer();
 	
 	UFUNCTION()
 	void ResponseGameServerAddress(const FString& Address);
@@ -51,6 +54,7 @@ private:
 	FString GetIPAddressURL;
 	FString LevelName;
 	FString ServerName;
+	FServerPrivateInfo ServerInfo;
 
 	//TRUE, если внешний адрес получен через опции ярлыка запуска
 	bool bCommitedAddressFromOption;

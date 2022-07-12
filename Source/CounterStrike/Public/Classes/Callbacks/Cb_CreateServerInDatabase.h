@@ -6,7 +6,7 @@
 #include "UObject/NoExportTypes.h"
 #include "Cb_CreateServerInDatabase.generated.h"
 
-DECLARE_DYNAMIC_DELEGATE_OneParam(FDelegateCallbackRequestCreateGameServer, bool, Success);
+DECLARE_DYNAMIC_DELEGATE_OneParam(FDelegateCallbackRequestCreateGameServer, int32, NewServerID);
 
 USTRUCT()
 struct FCallbackRequestCreateGameServerInDB

@@ -41,12 +41,12 @@ void UWebRequestCreateGameServer::CallJsonResponse(const TSharedPtr<FJsonObject>
 		UE_LOG(LogTemp, Error, TEXT("[UWebRequestCreateGameServer::CallJsonResponse] %s"), *Error);
 	}
 
-	bool Result = JsonResponse->GetBoolField("Result");
+	int32 Result = JsonResponse->GetIntegerField("Result");
 	bool b = CallbackRequestCreateGameServerInDB.DelegateCallbackRequestCreateGameServer.ExecuteIfBound(Result);
 }
 
 void UWebRequestCreateGameServer::CallJsonFail()
 {
 	//Super::CallJsonFail();
-	bool b = CallbackRequestCreateGameServerInDB.DelegateCallbackRequestCreateGameServer.ExecuteIfBound(false);
+	bool b = CallbackRequestCreateGameServerInDB.DelegateCallbackRequestCreateGameServer.ExecuteIfBound(0);
 }

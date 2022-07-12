@@ -24,7 +24,7 @@ void UAC_GameServerDatabase::CallGameServerURL(const FDelegateCallbackRequestGam
 	if(!Obj)
 	{
 		UE_LOG(LogTemp, Error, TEXT("Fail to create object 'UWebRequestGetIPAddress'!"));
-		bool Result = Callback.ExecuteIfBound("");
+		bool Result = Callback.ExecuteIfBound(0);
 	}
 }
 
@@ -37,7 +37,7 @@ void UAC_GameServerDatabase::CreateServerToDB()
 	if(!Obj)
 	{
 		UE_LOG(LogTemp, Error, TEXT("Fail to create object 'UWebRequestCreateGameServer'!"));
-		bool Result = DelegateCallbackRequestCreateGameServer.ExecuteIfBound(false);
+		bool Result = DelegateCallbackRequestCreateGameServer.ExecuteIfBound(0);
 	}
 }
 
@@ -66,6 +66,11 @@ void UAC_GameServerDatabase::GetServerDataFromDB()
 {
 }
 
+void UAC_GameServerDatabase::ShutDownServer()
+{
+	RequestEngineExit("");
+}
+
 void UAC_GameServerDatabase::ResponseGameServerAddress(const FString& Address)
 {
 	ServerAddress = Address;
@@ -82,7 +87,11 @@ UE_LOG(LogTemp, Log, TEXT("Server added to Database %s"), NewServerID > 0 ? TEXT
 	
 	if(NewServerID > 0)
 	{
-		
+		ServerInfo = FServerPrivateInfo(NewServerID, ServerName, LevelName, ServerAddress);		
+	}
+	else
+	{
+		ShutDownServer();
 	}
 }
 
