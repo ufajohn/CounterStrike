@@ -6,12 +6,20 @@
 #include "UObject/NoExportTypes.h"
 #include "Cb_CreateServerInDatabase.generated.h"
 
-/**
- * 
- */
-UCLASS()
-class COUNTERSTRIKE_API UCb_CreateServerInDatabase : public UObject
+DECLARE_DYNAMIC_DELEGATE_OneParam(FDelegateCallbackRequestCreateGameServer, bool, Success);
+
+USTRUCT()
+struct FCallbackRequestCreateGameServerInDB
 {
 	GENERATED_BODY()
-	
+
+	FCallbackRequestCreateGameServerInDB(){}
+
+	FCallbackRequestCreateGameServerInDB( const FDelegateCallbackRequestCreateGameServer& Callback): DelegateCallbackRequestCreateGameServer(Callback){}
+
+	UPROPERTY()
+	FDelegateCallbackRequestCreateGameServer DelegateCallbackRequestCreateGameServer = FDelegateCallbackRequestCreateGameServer();
 };
+
+
+

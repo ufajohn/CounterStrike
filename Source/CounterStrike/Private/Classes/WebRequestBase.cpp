@@ -3,14 +3,15 @@
 
 DEFINE_LOG_CATEGORY(LogWebRequest);
 
-bool UWebRequestBase::CallWebScript(const FString& ScriptURL, TSharedPtr<FJsonObject>& JsonRequest,
-	EWebRequestType RequestType)
+bool UWebRequestBase::CallWebScript(const FString& ScriptURL, TSharedPtr<FJsonObject>& JsonRequest,	EWebRequestType RequestType)
 {
 	
 	if(!Http) Http = &FHttpModule::Get();
+	
 	TSharedRef<IHttpRequest, ESPMode::ThreadSafe> IHttpRequest = Http->CreateRequest();
+	
 	FString ResultURL = "http://";
-	if(bUsingSSL) ResultURL = "https://";
+	if(bUsingSSL) ResultURL = "https://";	
 	ResultURL += ScriptURL;
 
 	if(RequestType == EWebRequestType::Post) InitRequest(IHttpRequest, "Post", ResultURL);

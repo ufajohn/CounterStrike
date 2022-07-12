@@ -3,6 +3,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Classes/Callbacks/Cb_CreateServerInDatabase.h"
+#include "Classes/Callbacks/Cb_RequestGameServerAddress.h"
 #include "Components/ActorComponent.h"
 #include "AC_GameServerDatabase.generated.h"
 
@@ -15,6 +17,8 @@ class COUNTERSTRIKE_API UAC_GameServerDatabase : public UActorComponent
 public:	
 	// Sets default values for this component's properties
 	UAC_GameServerDatabase();
+
+	void CallGameServerURL(const FDelegateCallbackRequestGameServerAddress& Callback);
 
 	void CreateServerToDB();
 
@@ -31,9 +35,26 @@ public:
 	virtual void EndPlay(const EEndPlayReason::Type EndPlayReason) override;
 
 private:
+	
+	UFUNCTION()
+	void ResponseGameServerAddress(const FString& Address);
 
+	UFUNCTION()
+	void ResponseCreateServerToDB(bool Success);
+
+	void ResponseRemoveServerFromDB(bool Success);
+	
+	FString ServerAddress;
+	int32 ServerPort;
 	FString CreateServerURL;
+	FString GetIPAddressURL;
 	FString LevelName;
+	FString ServerName;
 
+	//TRUE, если внешний адрес получен через опции ярлыка запуска
+	bool bCommitedAddressFromOption;
+
+	UPROPERTY()
+	FCallbackRequestGameServerAddress CallbackRequestGameServerAddress;
 		
 };
