@@ -12,6 +12,7 @@
 UAC_GameServerDatabase::UAC_GameServerDatabase()
 {	
 	PrimaryComponentTick.bCanEverTick = true;
+	PrimaryComponentTick.TickInterval = 1.f;
 
 	CreateServerURL = "worldgreenplace.ddns.net/phpscripts/CreateServer.php";
 	GetIPAddressURL = "worldgreenplace.ddns.net/phpscripts/GetIP.php";
@@ -61,6 +62,10 @@ void UAC_GameServerDatabase::EndPlay(const EEndPlayReason::Type EndPlayReason)
 	Super::EndPlay(EndPlayReason);	
 }
 
+void UAC_GameServerDatabase::GetServerDataFromDB()
+{
+}
+
 void UAC_GameServerDatabase::ResponseGameServerAddress(const FString& Address)
 {
 	ServerAddress = Address;
@@ -71,11 +76,11 @@ void UAC_GameServerDatabase::ResponseGameServerAddress(const FString& Address)
 	CreateServerToDB();
 }
 
-void UAC_GameServerDatabase::ResponseCreateServerToDB(bool Success)
+void UAC_GameServerDatabase::ResponseCreateServerToDB(int32 NewServerID)
 {
-UE_LOG(LogTemp, Log, TEXT("Server added to Database %s"), Success ? TEXT("success") : TEXT("fail"))
+UE_LOG(LogTemp, Log, TEXT("Server added to Database %s"), NewServerID > 0 ? TEXT("success") : TEXT("fail"))
 	
-	if(Success)
+	if(NewServerID > 0)
 	{
 		
 	}
@@ -132,6 +137,6 @@ void UAC_GameServerDatabase::TickComponent(float DeltaTime, ELevelTick TickType,
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	// ...
+	GetServerDataFromDB();
 }
 

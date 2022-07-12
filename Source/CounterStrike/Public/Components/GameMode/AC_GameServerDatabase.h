@@ -35,12 +35,13 @@ public:
 	virtual void EndPlay(const EEndPlayReason::Type EndPlayReason) override;
 
 private:
+	void GetServerDataFromDB();
 	
 	UFUNCTION()
 	void ResponseGameServerAddress(const FString& Address);
 
 	UFUNCTION()
-	void ResponseCreateServerToDB(bool Success);
+	void ResponseCreateServerToDB(int32 NewServerID);
 
 	void ResponseRemoveServerFromDB(bool Success);
 	
