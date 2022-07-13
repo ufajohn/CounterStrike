@@ -1,10 +1,24 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Structs/ServerPrivatInfoStruct.h"
 #include "UObject/NoExportTypes.h"
 #include "Cb_RequestGetServerInfoFromDB.generated.h"
+
+DECLARE_DYNAMIC_DELEGATE_OneParam(FDelegateCallbackRequestGetServerInfoFromDB, const FServerPrivateInfo&, Info)
+
+USTRUCT()
+struct FCallbackRequestGetServerInfoFromDB
+{
+	GENERATED_BODY()
+
+	FCallbackRequestGetServerInfoFromDB(): DelegateCallbackRequestGetServerInfoFromDB(FDelegateCallbackRequestGetServerInfoFromDB()){}
+
+	FCallbackRequestGetServerInfoFromDB(const FDelegateCallbackRequestGetServerInfoFromDB& Callback): DelegateCallbackRequestGetServerInfoFromDB(Callback){}
+
+	UPROPERTY()
+	FDelegateCallbackRequestGetServerInfoFromDB DelegateCallbackRequestGetServerInfoFromDB;
+};
 
 /**
  * 

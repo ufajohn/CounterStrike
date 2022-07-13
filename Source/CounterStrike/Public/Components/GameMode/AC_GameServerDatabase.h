@@ -54,7 +54,11 @@ private:
 	FString GetIPAddressURL;
 	FString LevelName;
 	FString ServerName;
+
+	//информация о сервере из БД
 	FServerPrivateInfo ServerInfo;
+	UPROPERTY()
+	FCallbackRequestCreateGameServerInDB CallbackRequestCreateGameServerInDB;
 
 	//TRUE, если внешний адрес получен через опции ярлыка запуска
 	bool bCommitedAddressFromOption;

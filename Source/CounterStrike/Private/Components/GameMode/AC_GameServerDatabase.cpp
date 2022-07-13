@@ -3,6 +3,7 @@
 
 #include "Components/GameMode/AC_GameServerDatabase.h"
 #include "Classes/Callbacks/Cb_CreateServerInDatabase.h"
+#include "Classes/Callbacks/Cb_RequestGetServerInfoFromDB.h"
 #include "Classes/WebRequests/WebRequestCreateGameServer.h"
 #include "Classes/WebRequests/WebRequestGetIPAddress.h"
 #include "GameFramework/GameModeBase.h"
@@ -64,6 +65,8 @@ void UAC_GameServerDatabase::EndPlay(const EEndPlayReason::Type EndPlayReason)
 
 void UAC_GameServerDatabase::GetServerDataFromDB()
 {
+	FDelegateCallbackRequestGetServerInfoFromDB Callback;
+	Callback.BindUFunction(this, "ResponseGetServerInfoFromDB");
 }
 
 void UAC_GameServerDatabase::ShutDownServer()
