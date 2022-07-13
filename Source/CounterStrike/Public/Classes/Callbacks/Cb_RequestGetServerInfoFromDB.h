@@ -5,7 +5,7 @@
 #include "UObject/NoExportTypes.h"
 #include "Cb_RequestGetServerInfoFromDB.generated.h"
 
-DECLARE_DYNAMIC_DELEGATE_OneParam(FDelegateCallbackRequestGetServerInfoFromDB, const FServerPrivateInfo&, Info)
+DECLARE_DYNAMIC_DELEGATE_OneParam(FDelegateCallbackRequestGetServerInfoFromDB, const FServerPrivateInfo&, Info);
 
 USTRUCT()
 struct FCallbackRequestGetServerInfoFromDB

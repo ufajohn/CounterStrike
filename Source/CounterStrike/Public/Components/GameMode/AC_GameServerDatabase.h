@@ -57,11 +57,19 @@ private:
 
 	//информация о сервере из БД
 	FServerPrivateInfo ServerInfo;
+
+	//коллбак на получение данных о сервере из БД
 	UPROPERTY()
 	FCallbackRequestCreateGameServerInDB CallbackRequestCreateGameServerInDB;
 
+	//True, если запрос на получение данных из БД уже отправлен
+	bool bAlreadyRequestGetServerInfoFromDB;
+
 	//TRUE, если внешний адрес получен через опции ярлыка запуска
 	bool bCommitedAddressFromOption;
+
+	//True, если сервер успешно прописал себя в БД и стал активным
+	bool bActivatedServer;
 
 	UPROPERTY()
 	FCallbackRequestGameServerAddress CallbackRequestGameServerAddress;

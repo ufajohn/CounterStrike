@@ -16,20 +16,34 @@ public:
 	FServerPrivateInfo(){}
 	
 	FServerPrivateInfo(int32 NewID):
-	ID(NewID){}
+	ID(NewID)
+	{		
+	}
+
+	FServerPrivateInfo(FString NewName, FString NewLevelName, FString NewAddress, bool ToDestroy):	
+	Name(NewName),
+	LevelName(NewLevelName),
+	Address(NewAddress),
+	bToDestroy(ToDestroy)
+	{		
+	}
 
 	FServerPrivateInfo(int32 NewID, FString NewName, FString NewLevelName, FString NewAddress):
 	ID(NewID),
 	Name(NewName),
 	LevelName(NewLevelName),
-	Address(NewAddress){}
+	Address(NewAddress)
+	{		
+	}
 
 	FServerPrivateInfo(int32 NewID, FString NewName, FString NewLevelName, FString NewAddress, bool ToDestroy):
 	ID(NewID),
 	Name(NewName),
 	LevelName(NewLevelName),
 	Address(NewAddress),
-	bToDestroy(ToDestroy){}
+	bToDestroy(ToDestroy)
+	{		
+	}
 
 	
 

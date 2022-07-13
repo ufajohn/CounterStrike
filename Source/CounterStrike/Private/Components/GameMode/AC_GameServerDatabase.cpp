@@ -65,6 +65,9 @@ void UAC_GameServerDatabase::EndPlay(const EEndPlayReason::Type EndPlayReason)
 
 void UAC_GameServerDatabase::GetServerDataFromDB()
 {
+	if(!bActivatedServer) return;
+	if(bAlreadyRequestGetServerInfoFromDB) return;
+	
 	FDelegateCallbackRequestGetServerInfoFromDB Callback;
 	Callback.BindUFunction(this, "ResponseGetServerInfoFromDB");
 }
@@ -90,7 +93,8 @@ UE_LOG(LogTemp, Log, TEXT("Server added to Database %s"), NewServerID > 0 ? TEXT
 	
 	if(NewServerID > 0)
 	{
-		ServerInfo = FServerPrivateInfo(NewServerID, ServerName, LevelName, ServerAddress);		
+		ServerInfo = FServerPrivateInfo(NewServerID, ServerName, LevelName, ServerAddress);
+		bActivatedServer = true;
 	}
 	else
 	{
