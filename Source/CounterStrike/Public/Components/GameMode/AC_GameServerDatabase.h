@@ -46,12 +46,19 @@ private:
 	UFUNCTION()
 	void ResponseCreateServerToDB(int32 NewServerID);
 
+	UFUNCTION()
 	void ResponseRemoveServerFromDB(bool Success);
+
+	UFUNCTION()
+	void ResponseGetServerInfoFromDB(const FServerPrivateInfo& Info);
 	
 	FString ServerAddress;
 	int32 ServerPort;
+	
 	FString CreateServerURL;
 	FString GetIPAddressURL;
+	FString GetServerPrivateInfoAddressURL;
+	
 	FString LevelName;
 	FString ServerName;
 

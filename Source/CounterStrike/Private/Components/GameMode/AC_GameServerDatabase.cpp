@@ -6,6 +6,7 @@
 #include "Classes/Callbacks/Cb_RequestGetServerInfoFromDB.h"
 #include "Classes/WebRequests/WebRequestCreateGameServer.h"
 #include "Classes/WebRequests/WebRequestGetIPAddress.h"
+#include "Classes/WebRequests/WebRequestGetServerPrivateInfo.h"
 #include "GameFramework/GameModeBase.h"
 #include "Kismet/GameplayStatics.h"
 
@@ -17,6 +18,7 @@ UAC_GameServerDatabase::UAC_GameServerDatabase()
 
 	CreateServerURL = "worldgreenplace.ddns.net/phpscripts/CreateServer.php";
 	GetIPAddressURL = "worldgreenplace.ddns.net/phpscripts/GetIP.php";
+	GetServerPrivateInfoAddressURL = "worldgreenplace.ddns.net/GetServerPrivateInfoAddressURL.php"
 }
 
 void UAC_GameServerDatabase::CallGameServerURL(const FDelegateCallbackRequestGameServerAddress& Callback)
@@ -25,7 +27,7 @@ void UAC_GameServerDatabase::CallGameServerURL(const FDelegateCallbackRequestGam
 	if(!Obj)
 	{
 		UE_LOG(LogTemp, Error, TEXT("Fail to create object 'UWebRequestGetIPAddress'!"));
-		bool Result = Callback.ExecuteIfBound(0);
+		bool Result = Callback.ExecuteIfBound("");
 	}
 }
 
@@ -70,6 +72,14 @@ void UAC_GameServerDatabase::GetServerDataFromDB()
 	
 	FDelegateCallbackRequestGetServerInfoFromDB Callback;
 	Callback.BindUFunction(this, "ResponseGetServerInfoFromDB");
+
+	UWebRequestGetServerPrivateInfo* WebRequestGetServerPrivateInfo = UWebRequestGetServerPrivateInfo::Create(GetOwner(), GetServerPrivateInfoAddressURL, ServerInfo.ID, Callback);
+
+	if(!WebRequestGetServerPrivateInfo)
+	{
+		UE_LOG(LogTemp, Error, TEXT("Fail to create object 'UWebRequestGetServerPrivateInfo'!"));
+		bool r = Callback.ExecuteIfBound(FServerPrivateInfo());
+	}
 }
 
 void UAC_GameServerDatabase::ShutDownServer()
@@ -108,6 +118,22 @@ void UAC_GameServerDatabase::ResponseRemoveServerFromDB(bool Success)
 	{
 		
 	}
+}
+
+void UAC_GameServerDatabase::ResponseGetServerInfoFromDB(const FServerPrivateInfo& Info)
+{
+	if(Info.bToDestroy)
+	{
+		ShutDownServer();
+		return;;
+	}
+	FServerPrivateInfo NewInfo = Info;
+	NewInfo.ID = ServerInfo.ID;
+	NewInfo.LevelName = ServerInfo.LevelName;
+
+	ServerInfo = NewInfo;
+	bAlreadyRequestGetServerInfoFromDB = false;
+	
 }
 
 
