@@ -18,7 +18,7 @@ UAC_GameServerDatabase::UAC_GameServerDatabase()
 
 	CreateServerURL = "worldgreenplace.ddns.net/phpscripts/CreateServer.php";
 	GetIPAddressURL = "worldgreenplace.ddns.net/phpscripts/GetIP.php";
-	GetServerPrivateInfoAddressURL = "worldgreenplace.ddns.net/GetServerPrivateInfoAddressURL.php"
+	GetServerPrivateInfoAddressURL = "worldgreenplace.ddns.net/GetServerPrivateInfoAddressURL.php";
 }
 
 void UAC_GameServerDatabase::CallGameServerURL(const FDelegateCallbackRequestGameServerAddress& Callback)

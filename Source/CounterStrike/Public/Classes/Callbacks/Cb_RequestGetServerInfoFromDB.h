@@ -2,7 +2,7 @@
 
 #include "CoreMinimal.h"
 #include "Structs/ServerPrivatInfoStruct.h"
-#include "UObject/NoExportTypes.h"
+//#include "UObject/NoExportTypes.h"
 #include "Cb_RequestGetServerInfoFromDB.generated.h"
 
 DECLARE_DYNAMIC_DELEGATE_OneParam(FDelegateCallbackRequestGetServerInfoFromDB, const FServerPrivateInfo&, Info);

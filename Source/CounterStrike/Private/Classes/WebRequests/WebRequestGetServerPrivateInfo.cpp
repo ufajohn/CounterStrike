@@ -3,7 +3,7 @@
 
 #include "Classes/WebRequests/WebRequestGetServerPrivateInfo.h"
 
-#include "Android/AndroidRuntimeSettings/Classes/AndroidRuntimeSettings.h"
+//#include "Android/AndroidRuntimeSettings/Classes/AndroidRuntimeSettings.h"
 
 UWebRequestGetServerPrivateInfo* UWebRequestGetServerPrivateInfo::Create(UObject* Owner, const FString& ScriptURL,
                                                                          int32 ServerID, const FDelegateCallbackRequestGetServerInfoFromDB& Callback)
