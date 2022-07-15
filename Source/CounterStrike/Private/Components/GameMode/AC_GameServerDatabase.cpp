@@ -17,8 +17,9 @@ UAC_GameServerDatabase::UAC_GameServerDatabase()
 	PrimaryComponentTick.TickInterval = 1.f;
 
 	CreateServerURL = "worldgreenplace.ddns.net/phpscripts/CreateServer.php";
+	RemoveServerURL = "worldgreenplace.ddns.net/phpscripts/RemoveServer.php";
 	GetIPAddressURL = "worldgreenplace.ddns.net/phpscripts/GetIP.php";
-	GetServerPrivateInfoAddressURL = "worldgreenplace.ddns.net/GetServerPrivateInfoAddressURL.php";
+	GetServerPrivateInfoAddressURL = "worldgreenplace.ddns.net/phpscripts/GetServerPrivateInfoAddressURL.php";
 }
 
 void UAC_GameServerDatabase::CallGameServerURL(const FDelegateCallbackRequestGameServerAddress& Callback)
@@ -46,16 +47,14 @@ void UAC_GameServerDatabase::CreateServerToDB()
 
 void UAC_GameServerDatabase::RemoveServerFromDB()
 {
-	FDelegateCallbackRequestCreateGameServer DelegateCallbackRequestRemoveGameServer;
-	DelegateCallbackRequestRemoveGameServer.BindUFunction(this, "ResponseRemoveServerFromDB");
+	//FDelegateCallbackRequestCreateGameServer DelegateCallbackRequestRemoveGameServer;
+	//DelegateCallbackRequestRemoveGameServer.BindUFunction(this, "ResponseRemoveServerFromDB");
 
-	UWebRequestCreateGameServer* Obj = UWebRequestCreateGameServer::Remove(GetOwner(), CreateServerURL, ServerName, DelegateCallbackRequestRemoveGameServer);
+	UWebRequestCreateGameServer* Obj = UWebRequestCreateGameServer::Remove(GetOwner(), RemoveServerURL, ServerInfo.ID);
 	if(!Obj)
 	{
-		UE_LOG(LogTemp, Error, TEXT("Fail to create object 'UWebRequestCreateGameServer'!"));
-		bool Result = DelegateCallbackRequestRemoveGameServer.ExecuteIfBound(false);
-	}
-
+		UE_LOG(LogTemp, Error, TEXT("Fail to create object 'UWebRequestCreateGameServer'!"));		
+	}	
 }
 
 void UAC_GameServerDatabase::EndPlay(const EEndPlayReason::Type EndPlayReason)
@@ -84,7 +83,9 @@ void UAC_GameServerDatabase::GetServerDataFromDB()
 
 void UAC_GameServerDatabase::ShutDownServer()
 {
-	RequestEngineExit("");
+	RemoveServerFromDB();
+	
+	RequestEngineExit("ShutdownGameServer");
 }
 
 void UAC_GameServerDatabase::ResponseGameServerAddress(const FString& Address)
@@ -112,14 +113,6 @@ UE_LOG(LogTemp, Log, TEXT("Server added to Database %s"), NewServerID > 0 ? TEXT
 	}
 }
 
-void UAC_GameServerDatabase::ResponseRemoveServerFromDB(bool Success)
-{
-	if(Success)
-	{
-		
-	}
-}
-
 void UAC_GameServerDatabase::ResponseGetServerInfoFromDB(const FServerPrivateInfo& Info)
 {
 	if(Info.bToDestroy)
@@ -129,6 +122,12 @@ void UAC_GameServerDatabase::ResponseGetServerInfoFromDB(const FServerPrivateInf
 	}
 	FServerPrivateInfo NewInfo = Info;
 	NewInfo.ID = ServerInfo.ID;
+
+	FString NewAddress;
+	FString NewPort;
+	Info.Address.Split(":", &NewAddress, &NewPort);
+
+	NewInfo.Address = NewAddress;	
 	NewInfo.LevelName = ServerInfo.LevelName;
 
 	ServerInfo = NewInfo;

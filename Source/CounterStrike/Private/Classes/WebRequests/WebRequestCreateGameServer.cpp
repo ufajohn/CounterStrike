@@ -17,8 +17,20 @@ UWebRequestCreateGameServer* UWebRequestCreateGameServer::Create(UObject* Owner,
 	return nullptr;
 }
 
+UWebRequestCreateGameServer* UWebRequestCreateGameServer::Remove(UObject* Owner, const FString& ScriptURL,
+	int32 ServerID)
+{
+	UWebRequestCreateGameServer* Obj = NewObject<UWebRequestCreateGameServer>(Owner);
+	if(Obj)
+	{
+		Obj->InitRemove(ScriptURL, ServerID);
+		return Obj;
+	}
+	return nullptr;
+}
+
 void UWebRequestCreateGameServer::Init(const FString& ScriptURL, const FString& Name, const FString& LevelName,
-	const FString& Address, const FDelegateCallbackRequestCreateGameServer& Callback)
+                                       const FString& Address, const FDelegateCallbackRequestCreateGameServer& Callback)
 {
 	CallbackRequestCreateGameServerInDB.DelegateCallbackRequestCreateGameServer = Callback;
 
@@ -26,6 +38,14 @@ void UWebRequestCreateGameServer::Init(const FString& ScriptURL, const FString& 
 	Json->SetStringField("ServerName", Name);
 	Json->SetStringField("LevelName", LevelName);
 	Json->SetStringField("ServerAddress", Address);
+
+	CallWebScript(ScriptURL, Json);
+}
+
+void UWebRequestCreateGameServer::InitRemove(const FString& ScriptURL, int32 ServerID)
+{
+	TSharedPtr<FJsonObject> Json = CreateJsonRequest();
+	Json->SetNumberField("ServerID", (double)ServerID);
 
 	CallWebScript(ScriptURL, Json);
 }

@@ -30,11 +30,11 @@ void UWebRequestGetServerPrivateInfo::CallJsonResponse(const TSharedPtr<FJsonObj
 
 	FString Address = JsonResponse->GetStringField("Address");
 	FString Name = JsonResponse->GetStringField("Name");
-	bool ToDestroy = JsonResponse->GetBoolField("ToDestroy");
+	int32 ToDestroy = JsonResponse->GetBoolField("ToDestroy");
 
 	Info.Address = Address;
 	Info.Name = Name;
-	Info.bToDestroy = ToDestroy;
+	Info.bToDestroy = ToDestroy > 0 ? true : false;
 
 	bool s = CallbackRequestGetServerInfoFromDB.DelegateCallbackRequestGetServerInfoFromDB.ExecuteIfBound(Info);
 }

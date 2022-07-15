@@ -47,15 +47,13 @@ private:
 	void ResponseCreateServerToDB(int32 NewServerID);
 
 	UFUNCTION()
-	void ResponseRemoveServerFromDB(bool Success);
-
-	UFUNCTION()
 	void ResponseGetServerInfoFromDB(const FServerPrivateInfo& Info);
 	
 	FString ServerAddress;
 	int32 ServerPort;
 	
 	FString CreateServerURL;
+	FString RemoveServerURL;
 	FString GetIPAddressURL;
 	FString GetServerPrivateInfoAddressURL;
 	
