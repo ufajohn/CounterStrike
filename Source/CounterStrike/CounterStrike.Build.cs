@@ -8,7 +8,7 @@ public class CounterStrike : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "OnlineSubsystem", "OnlineSubsystemEOS",  "Http", "Json", "JsonUtilities"});
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "OnlineSubsystem", "OnlineSubsystemEOS",  "Http", "Json", "JsonUtilities", "AndroidPlayBilling"});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
