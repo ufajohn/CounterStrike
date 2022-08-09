@@ -16,10 +16,10 @@ UAC_GameServerDatabase::UAC_GameServerDatabase()
 	PrimaryComponentTick.bCanEverTick = true;
 	PrimaryComponentTick.TickInterval = 1.f;
 
-	CreateServerURL = "worldgreenplace.ddns.net/phpscripts/CreateServer.php";
-	RemoveServerURL = "worldgreenplace.ddns.net/phpscripts/RemoveServer.php";
-	GetIPAddressURL = "worldgreenplace.ddns.net/phpscripts/GetIP.php";
-	GetServerPrivateInfoAddressURL = "worldgreenplace.ddns.net/phpscripts/GetServerPrivateInfoAddressURL.php";
+	CreateServerURL = "greenstrike/phpscripts/CreateServer.php";
+	RemoveServerURL = "greenstrike/phpscripts/RemoveServer.php";
+	GetIPAddressURL = "greenstrike/phpscripts/GetIP.php";
+	GetServerPrivateInfoAddressURL = "greenstrike/phpscripts/GetServerPrivateInfoAddressURL.php";
 }
 
 void UAC_GameServerDatabase::CallGameServerURL(const FDelegateCallbackRequestGameServerAddress& Callback)
