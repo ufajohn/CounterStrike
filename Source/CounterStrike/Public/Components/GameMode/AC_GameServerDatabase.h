@@ -19,11 +19,17 @@ public:
 	// Sets default values for this component's properties
 	UAC_GameServerDatabase();
 
+	UFUNCTION(Blueprintcallable)
 	void CallGameServerURL(const FDelegateCallbackRequestGameServerAddress& Callback);
 
+	UFUNCTION(Blueprintcallable)
 	void CreateServerToDB();
 
+	UFUNCTION(Blueprintcallable)
 	void RemoveServerFromDB();
+
+	
+	
 
 protected:
 	// Called when the game starts

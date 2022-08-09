@@ -93,7 +93,7 @@ void UAC_GameServerDatabase::ResponseGameServerAddress(const FString& Address)
 	ServerAddress = Address;
 	ServerPort = GetWorld()->URL.Port;
 
-	UE_LOG(LogTemp, Log, TEXT("Response server address: %s:%d"), *ServerAddress,ServerPort);
+	UE_LOG(LogTemp, Log, TEXT("Response server address: %s:%d"), *ServerAddress, ServerPort);
 
 	CreateServerToDB();
 }
@@ -141,9 +141,21 @@ void UAC_GameServerDatabase::BeginPlay()
 	Super::BeginPlay();
 
 	AGameModeBase* GameModeBase = Cast<AGameModeBase>(GetOwner());
-	if(!GameModeBase) return;
+
+	if (!GameModeBase)
+	{
+		UE_LOG(LogTemp, Log, TEXT("GameModeBase FAIL %s"), GameModeBase);
+		return;
+	}
+	else
+	{
+		UE_LOG(LogTemp, Log, TEXT("GameModeBase SUCCESS %s"), GameModeBase);
+	}
+	
+	
 	
 	ServerName = UGameplayStatics::ParseOption(GameModeBase->OptionsString, "ServerName");
+	//UE_LOG(LogTemp, Log, TEXT("ServerName %s"), ServerName);
 
 	
 
