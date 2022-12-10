@@ -16,10 +16,11 @@ UAC_GameServerDatabase::UAC_GameServerDatabase()
 	PrimaryComponentTick.bCanEverTick = true;
 	PrimaryComponentTick.TickInterval = 1.f;
 
-	CreateServerURL = "greenstrike/phpscripts/CreateServer.php";
-	RemoveServerURL = "greenstrike/phpscripts/RemoveServer.php";
-	GetIPAddressURL = "greenstrike/phpscripts/GetIP.php";
-	GetServerPrivateInfoAddressURL = "greenstrike/phpscripts/GetServerPrivateInfoAddressURL.php";
+	CreateServerURL = "greenstrike.ru/phpscripts/CreateServer.php";
+	RemoveServerURL = "greenstrike.ru/phpscripts/RemoveServer.php";
+	GetIPAddressURL = "greenstrike.ru/phpscripts/GetIP.php";
+	GetServerPrivateInfoAddressURL = "greenstrike.ru/phpscripts/GetServerPrivateInfoAddressURL.php";
+	LobbyURL = "greenstrike.ru/phpscripts/GetLobby.php";
 }
 
 void UAC_GameServerDatabase::CallGameServerURL(const FDelegateCallbackRequestGameServerAddress& Callback)
@@ -30,6 +31,25 @@ void UAC_GameServerDatabase::CallGameServerURL(const FDelegateCallbackRequestGam
 		UE_LOG(LogTemp, Error, TEXT("Fail to create object 'UWebRequestGetIPAddress'!"));
 		bool Result = Callback.ExecuteIfBound("");
 	}
+}
+
+bool UAC_GameServerDatabase::GetLobby()
+{
+	bool success;
+	FDelegateCallbackRequestGetServerInfoFromDB Callback;
+	Callback.BindUFunction(this, "ResponseGetServerInfoFromDB");
+
+	UWebRequestGetServerPrivateInfo* WebRequestGetServerPrivateInfo = UWebRequestGetServerPrivateInfo::Create(GetOwner(), LobbyURL, ServerInfo.ID, Callback);
+		
+	if(!WebRequestGetServerPrivateInfo)
+	{
+		UE_LOG(LogTemp, Error, TEXT("Fail to create object 'UWebRequestGetServerPrivateInfo'!"));
+		bool r = Callback.ExecuteIfBound(FServerPrivateInfo());
+		success = false;
+	}
+	else success = true;
+	
+	return success;	
 }
 
 void UAC_GameServerDatabase::CreateServerToDB()
@@ -66,8 +86,8 @@ void UAC_GameServerDatabase::EndPlay(const EEndPlayReason::Type EndPlayReason)
 
 void UAC_GameServerDatabase::GetServerDataFromDB()
 {
-	if(!bActivatedServer) return;
-	if(bAlreadyRequestGetServerInfoFromDB) return;
+	//if(!bActivatedServer) return;
+	//if(bAlreadyRequestGetServerInfoFromDB) return;
 	
 	FDelegateCallbackRequestGetServerInfoFromDB Callback;
 	Callback.BindUFunction(this, "ResponseGetServerInfoFromDB");
@@ -79,6 +99,43 @@ void UAC_GameServerDatabase::GetServerDataFromDB()
 		UE_LOG(LogTemp, Error, TEXT("Fail to create object 'UWebRequestGetServerPrivateInfo'!"));
 		bool r = Callback.ExecuteIfBound(FServerPrivateInfo());
 	}
+}
+
+void UAC_GameServerDatabase::ConnectToServer()
+{
+	
+}
+
+void UAC_GameServerDatabase::ResponseGetServerInfoFromDB(const FServerPrivateInfo& Info)
+{
+	if(Info.bToDestroy)
+	{
+		bServerFound = false;
+		ShutDownServer();
+		return;
+	}
+	
+	FServerPrivateInfo NewInfo = Info;
+	NewInfo.ID = ServerInfo.ID;
+
+	FString NewAddress;
+	FString NewPort;
+	Info.Address.Split(":", &NewAddress, &NewPort);
+
+	ServerSocket = Info.Address;
+	NewInfo.Address = NewAddress;
+	NewInfo.LevelName = ServerInfo.LevelName;
+
+	if(NewInfo.Name == "")
+	{
+		bServerFound = false;
+		return;
+	}		
+	bServerFound = true;
+
+	ServerInfo = NewInfo;
+	bAlreadyRequestGetServerInfoFromDB = false;
+	
 }
 
 void UAC_GameServerDatabase::ShutDownServer()
@@ -113,27 +170,7 @@ UE_LOG(LogTemp, Log, TEXT("Server added to Database %s"), NewServerID > 0 ? TEXT
 	}
 }
 
-void UAC_GameServerDatabase::ResponseGetServerInfoFromDB(const FServerPrivateInfo& Info)
-{
-	if(Info.bToDestroy)
-	{
-		ShutDownServer();
-		return;;
-	}
-	FServerPrivateInfo NewInfo = Info;
-	NewInfo.ID = ServerInfo.ID;
 
-	FString NewAddress;
-	FString NewPort;
-	Info.Address.Split(":", &NewAddress, &NewPort);
-
-	NewInfo.Address = NewAddress;	
-	NewInfo.LevelName = ServerInfo.LevelName;
-
-	ServerInfo = NewInfo;
-	bAlreadyRequestGetServerInfoFromDB = false;
-	
-}
 
 
 void UAC_GameServerDatabase::BeginPlay()
@@ -190,6 +227,6 @@ void UAC_GameServerDatabase::TickComponent(float DeltaTime, ELevelTick TickType,
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	GetServerDataFromDB();
+	//GetServerDataFromDB();
 }
 

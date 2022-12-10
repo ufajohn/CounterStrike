@@ -5,7 +5,7 @@
 UAC_DatabaseTransfer::UAC_DatabaseTransfer()
 {
 	PrimaryComponentTick.bCanEverTick = false;
-	RegisterUserURL = "greenstrike/phpscripts/RegisterUser.php";
+	RegisterUserURL = "greenstrike.ru/phpscripts/RegisterUser.php";
 }
 
 void UAC_DatabaseTransfer::RegisterUser(const FRegisterUserData& RegisterUserData, const FDelegateCallbackRequestRegisterUser& Callback)

@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{397B305B-4E2A-2440-0A00-98BF902D4C52}",
+	"EngineAssociation": "{F03AFCB4-4D1B-26A0-0D8E-349655E6D2F1}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -231,10 +231,6 @@
 		{
 			"Name": "EOSShared",
 			"Enabled": true
-		},
-		{
-			"Name": "MySQLConnectorUE4Plugin",
-			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [

@@ -15,7 +15,11 @@ class COUNTERSTRIKE_API UAC_GameServerDatabase : public UActorComponent
 {
 	GENERATED_BODY()
 
-public:	
+public:
+
+	UFUNCTION(Blueprintcallable)
+	bool GetLobby();
+	
 	// Sets default values for this component's properties
 	UAC_GameServerDatabase();
 
@@ -28,8 +32,11 @@ public:
 	UFUNCTION(Blueprintcallable)
 	void RemoveServerFromDB();
 
-	
-	
+	UPROPERTY(BlueprintReadOnly)
+	bool bServerFound = false;	
+
+	UPROPERTY(BlueprintReadOnly)
+	FString ServerSocket = "";	
 
 protected:
 	// Called when the game starts
@@ -42,7 +49,11 @@ public:
 	virtual void EndPlay(const EEndPlayReason::Type EndPlayReason) override;
 
 private:
+	UFUNCTION(BlueprintCallable)
 	void GetServerDataFromDB();
+
+	UFUNCTION(BlueprintCallable)
+	void ConnectToServer();
 
 	void ShutDownServer();
 	
@@ -62,6 +73,7 @@ private:
 	FString RemoveServerURL;
 	FString GetIPAddressURL;
 	FString GetServerPrivateInfoAddressURL;
+	FString LobbyURL;
 	
 	FString LevelName;
 	FString ServerName;
@@ -81,6 +93,8 @@ private:
 
 	//True, если сервер успешно прописал себя в БД и стал активным
 	bool bActivatedServer;
+
+	
 
 	UPROPERTY()
 	FCallbackRequestGameServerAddress CallbackRequestGameServerAddress;
