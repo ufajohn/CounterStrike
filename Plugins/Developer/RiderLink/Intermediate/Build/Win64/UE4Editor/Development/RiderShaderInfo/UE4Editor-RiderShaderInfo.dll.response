@@ -1,5 +1,5 @@
 /MANIFEST:EMBED
-/MANIFESTINPUT:F:\UnrealEngine-4.27\Engine\Build\Windows\Resources\Default-Win64.manifest
+/MANIFESTINPUT:U:\UnrealEngine-4.27-plus\Engine\Build\Windows\Resources\Default-Win64.manifest
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -33,11 +33,11 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderShaderInfo\RiderShaderInfo.cpp.obj"
-"F:\UnrealEngine-4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-"F:\UnrealEngine-4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
-"F:\UnrealEngine-4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Projects\UE4Editor-Projects.lib"
-"F:\UnrealEngine-4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\RenderCore\UE4Editor-RenderCore.lib"
+"U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderShaderInfo\RiderShaderInfo.cpp.obj"
+"U:\UnrealEngine-4.27-plus\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+"U:\UnrealEngine-4.27-plus\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"U:\UnrealEngine-4.27-plus\Engine\Intermediate\Build\Win64\UE4Editor\Development\Projects\UE4Editor-Projects.lib"
+"U:\UnrealEngine-4.27-plus\Engine\Intermediate\Build\Win64\UE4Editor\Development\RenderCore\UE4Editor-RenderCore.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -62,7 +62,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Binaries\Win64\UE4Editor-RiderShaderInfo.dll"
-/IMPLIB:"F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderShaderInfo\UE4Editor-RiderShaderInfo.suppressed.lib"
-/PDB:"F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Binaries\Win64\UE4Editor-RiderShaderInfo.pdb"
+/OUT:"U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Binaries\Win64\UE4Editor-RiderShaderInfo.dll"
+/IMPLIB:"U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderShaderInfo\UE4Editor-RiderShaderInfo.suppressed.lib"
+/PDB:"U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Binaries\Win64\UE4Editor-RiderShaderInfo.pdb"
 /ignore:4078

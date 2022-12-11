@@ -1,8 +1,8 @@
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\Definitions.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\SequentialLifetimes.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\LifetimeDefinition.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_traits.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/Void.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\Definitions.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\SequentialLifetimes.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\LifetimeDefinition.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_traits.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/Void.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\yvals_core.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime.h
@@ -89,8 +89,8 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\LifetimeImpl.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/hash.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\LifetimeImpl.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/hash.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\map
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtree
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\mutex
@@ -112,21 +112,21 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\process.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_startup.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_startup.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\thirdparty.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_set.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\thirdparty.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_set.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\deque
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl\ordered_hash.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl\ordered_hash.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cassert
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_map.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl\optional.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark/variant.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\config.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\in_place.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\lib.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include\nonstd/string_view.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_map.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl\optional.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark/variant.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\config.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\in_place.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\lib.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include\nonstd/string_view.hpp
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cassert
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
@@ -141,5 +141,5 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\rd_core_export.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\Lifetime.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\rd_core_export.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\Lifetime.h

@@ -1,10 +1,10 @@
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\Definitions.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/async.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/async_logger.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/logger.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/common.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/tweakme.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/null_mutex.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\Definitions.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/async.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/async_logger.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/logger.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/common.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/tweakme.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/null_mutex.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\yvals.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\yvals_core.h
@@ -99,11 +99,11 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xbit_ops.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xnode_handle.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/fmt.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/core.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/fmt.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/core.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string_view
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/format.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/format.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
@@ -123,12 +123,12 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\mmintrin.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\zmmintrin.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ammintrin.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/xchar.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/xchar.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/backtracer.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg_buffer.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/circular_q.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/xchar.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/xchar.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/backtracer.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg_buffer.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/circular_q.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cassert
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\mutex
@@ -137,16 +137,16 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\process.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_startup.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_startup.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/os.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/registry.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/thread_pool.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/mpmc_blocking_q.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/os.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/registry.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/thread_pool.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/mpmc_blocking_q.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\condition_variable
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/async_logger-inl.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/sinks/sink.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/formatter.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/periodic_worker-inl.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/periodic_worker.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/thread_pool-inl.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/async_logger-inl.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/sinks/sink.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/formatter.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/periodic_worker-inl.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/periodic_worker.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/thread_pool-inl.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cassert
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h

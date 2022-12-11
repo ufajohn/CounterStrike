@@ -1,27 +1,27 @@
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLogging\Definitions.h
-F:/UnrealProjects/CounterStrike/Plugins/Developer/RiderLink/Source/RiderLogging/Private/RiderLogging.cpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLogging\Private\RiderLogging.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLogging\Private\RiderOutputDevice.hpp
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDevice.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\CoreTypes.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/Platform.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/Build.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLogging\Definitions.h
+U:/UnrealProjects/CounterStrike/Plugins/Developer/RiderLink/Source/RiderLogging/Private/RiderLogging.cpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLogging\Private\RiderLogging.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLogging\Private\RiderOutputDevice.hpp
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/OutputDevice.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\CoreTypes.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/Platform.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Build.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sal.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\concurrencysal.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\CoreFwd.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Traits/IsContiguousContainer.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\CoreFwd.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Traits/IsContiguousContainer.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\initializer_list
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\yvals_core.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime.h
@@ -31,18 +31,18 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtr1common
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\UObject/UObjectHierarchyFwd.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Logging/LogVerbosity.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/VarArgs.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsValidVariadicFunctionArg.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates\IsEnum.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/AndOrNot.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates/Delegate.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/AssertionMacros.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformMisc.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMisc.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformCrt.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\UObject/UObjectHierarchyFwd.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Logging/LogVerbosity.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/VarArgs.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsValidVariadicFunctionArg.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates\IsEnum.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/AndOrNot.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/Delegate.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/AssertionMacros.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformMisc.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMisc.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformCrt.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\new
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\exception
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\yvals.h
@@ -89,14 +89,14 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/CompressionFlags.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Math/NumericLimits.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMisc.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformMemory.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMemory.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMemory.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsSystemIncludes.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/MinimalWindowsApi.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/CompressionFlags.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/NumericLimits.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMisc.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformMemory.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMemory.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMemory.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsSystemIncludes.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/MinimalWindowsApi.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.inl.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\setjmp.h
@@ -121,166 +121,166 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\specstrings_u
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\driverspecs.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdv_driverspecs.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\strsafe.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CpuProfilerTrace.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Trace.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\TraceLog\Public\Trace/Config.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.inl
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/EnableIf.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\UObject/NameTypes.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/UnrealMemory.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsPointer.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/MemoryBase.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformAtomics.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAtomics.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAtomics.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/Exec.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/Atomic.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter64.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsIntegral.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsTrivial.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyDestructible.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyConstructible.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyAssignable.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Traits/IntType.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/UnrealTypeTraits.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/AreTypesEqual.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsArithmetic.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/RemoveCV.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Traits/IsVoidType.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/Models.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/Identity.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsPODType.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/UnrealTemplate.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersAndRefsFromTo.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersFromTo.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/RemoveReference.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/TypeCompatibleBytes.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsArray.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/Array.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsSigned.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/ContainerAllocationPolicies.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformMath.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMath.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMath.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Microsoft/MicrosoftPlatformMath.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE4.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/MemoryOps.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsPolymorphic.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Serialization/Archive.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsEnumClass.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/Function.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/ChooseClass.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/Decay.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/Invoke.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/PointerIsConvertibleFromTo.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/StaticAssertCompleteType.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/LosesQualifiersFromTo.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsConstructible.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsInvocable.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsMemberPointer.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsFloatingPoint.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformProperties.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProperties.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProperties.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/EngineVersionBase.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceFwd.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryImageWriter.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryLayout.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/EnumAsByte.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/TypeHash.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/Crc.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/Char.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CpuProfilerTrace.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Trace.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\TraceLog\Public\Trace/Config.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.inl
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/EnableIf.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\UObject/NameTypes.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/UnrealMemory.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsPointer.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/MemoryBase.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformAtomics.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAtomics.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAtomics.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Exec.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Atomic.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter64.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsIntegral.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsTrivial.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyDestructible.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyConstructible.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyAssignable.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Traits/IntType.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/UnrealTypeTraits.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/AreTypesEqual.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsArithmetic.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/RemoveCV.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Traits/IsVoidType.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Models.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Identity.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsPODType.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/UnrealTemplate.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersAndRefsFromTo.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersFromTo.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/RemoveReference.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/TypeCompatibleBytes.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsArray.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/Array.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsSigned.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/ContainerAllocationPolicies.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformMath.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMath.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMath.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Microsoft/MicrosoftPlatformMath.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE4.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/MemoryOps.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsPolymorphic.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/Archive.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsEnumClass.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Function.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/ChooseClass.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Decay.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Invoke.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/PointerIsConvertibleFromTo.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/StaticAssertCompleteType.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/LosesQualifiersFromTo.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsConstructible.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsInvocable.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsMemberPointer.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsFloatingPoint.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformProperties.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProperties.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProperties.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/EngineVersionBase.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceFwd.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/MemoryImageWriter.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/MemoryLayout.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/EnumAsByte.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/TypeHash.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Crc.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Char.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wctype.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/CString.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformString.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformString.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/MicrosoftPlatformString.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformString.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStricmp.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/StringFwd.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/DelayedAutoRegister.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Algo/Heapify.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Algo/Impl/BinaryHeap.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/ReversePredicate.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IdentityFunctor.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/Less.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Algo/HeapSort.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Algo/IsHeap.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/Sorting.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Algo/BinarySearch.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Algo/Sort.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Algo/IntroSort.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/AlignmentTemplates.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/StringFormatArg.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/CriticalSection.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/Timespan.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Math/Interval.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/StringConv.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\UObject/UnrealNames.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\UObject\UnrealNames.inl
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/StringBuilder.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/StringView.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers\StringView.inl
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/Map.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Algo/Reverse.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/Set.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/StructBuilder.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/ScriptArray.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/BitArray.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/EnumClassFlags.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchive.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchiveFormatter.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Serialization\Formatters/BinaryArchiveFormatter.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/Optional.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Concepts/Insertable.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/UniqueObj.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/UniquePtr.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/RemoveExtent.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/RetainedRef.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/Tuple.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates/IntegerSequence.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/CString.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformString.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformString.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/MicrosoftPlatformString.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformString.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStricmp.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/StringFwd.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/DelayedAutoRegister.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/Heapify.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/Impl/BinaryHeap.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/ReversePredicate.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IdentityFunctor.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Less.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/HeapSort.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/IsHeap.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Sorting.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/BinarySearch.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/Sort.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/IntroSort.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/AlignmentTemplates.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/StringFormatArg.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/CriticalSection.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Timespan.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Interval.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/StringConv.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\UObject/UnrealNames.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\UObject\UnrealNames.inl
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/StringBuilder.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/StringView.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers\StringView.inl
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/Map.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/Reverse.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/Set.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/StructBuilder.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/ScriptArray.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/BitArray.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/EnumClassFlags.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchive.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchiveFormatter.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization\Formatters/BinaryArchiveFormatter.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Optional.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Concepts/Insertable.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/UniqueObj.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/UniquePtr.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/RemoveExtent.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/RetainedRef.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Tuple.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/IntegerSequence.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\tuple
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xutility
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\climits
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstring
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\utility
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\CoreGlobals.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Logging/LogCategory.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Logging/LogScopedCategoryAndVerbosityOverride.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Logging/LogTrace.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/FormatArgsTrace.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformTLS.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTLS.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTLS.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/SharedPointerInternals.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/SharedPointerTesting.inl
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\UObject/WeakObjectPtrTemplates.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates/MulticastDelegateBase.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates/IDelegateInstance.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateSettings.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateBase.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstanceInterface.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstancesImpl.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Templates/IsConst.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateCombinations.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime/LifetimeDefinition.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_traits.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/Void.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\CoreGlobals.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Logging/LogCategory.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Logging/LogScopedCategoryAndVerbosityOverride.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Logging/LogTrace.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\ProfilingDebugging/FormatArgsTrace.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformTLS.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTLS.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTLS.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/SharedPointerInternals.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/SharedPointerTesting.inl
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\UObject/WeakObjectPtrTemplates.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/MulticastDelegateBase.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/IDelegateInstance.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/DelegateSettings.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/DelegateBase.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstanceInterface.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstancesImpl.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsConst.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/DelegateCombinations.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime/LifetimeDefinition.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_traits.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/Void.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\typeinfo
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
@@ -296,8 +296,8 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\LifetimeImpl.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/hash.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\LifetimeImpl.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/hash.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\map
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtree
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
@@ -320,23 +320,23 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\process.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_startup.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_startup.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\thirdparty.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_set.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\thirdparty.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_set.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\deque
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl\ordered_hash.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl\ordered_hash.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cassert
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_map.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl\optional.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark/variant.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\config.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\in_place.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\lib.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include\nonstd/string_view.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_map.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl\optional.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark/variant.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\config.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\in_place.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\lib.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include\nonstd/string_view.hpp
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cassert
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
@@ -351,56 +351,56 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\rd_core_export.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\Lifetime.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler/SingleThreadScheduler.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler\base/SingleThreadSchedulerBase.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler/base/IScheduler.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\rd_framework_export.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/spdlog.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/common.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/tweakme.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/null_mutex.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\rd_core_export.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\Lifetime.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler/SingleThreadScheduler.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler\base/SingleThreadSchedulerBase.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler/base/IScheduler.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\rd_framework_export.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/spdlog.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/common.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/tweakme.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/null_mutex.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\chrono
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/fmt.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/core.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/format.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/xchar.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/xchar.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/registry.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/fmt.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/core.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/format.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/xchar.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/xchar.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/registry.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\unordered_map
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xhash
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\list
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xbit_ops.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/logger.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/backtracer.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg_buffer.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/circular_q.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/logger.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/backtracer.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg_buffer.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/circular_q.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cassert
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/os.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/version.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/synchronous_factory.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderBlueprint\Public\BlueprintProvider.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\IRiderLink.hpp
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol\RdEditorModel/RdEditorModel.Generated.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Protocol.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IProtocol.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdDynamic.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RName.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/Serializers.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/RdId.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Buffer.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/DateTime.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_util.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\erase_if.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\gen_util.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/allocator.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\overloaded.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\shared_function.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/to_string.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/os.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/version.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/synchronous_factory.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderBlueprint\Public\BlueprintProvider.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\IRiderLink.hpp
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol\RdEditorModel/RdEditorModel.Generated.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Protocol.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IProtocol.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdDynamic.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RName.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/Serializers.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/RdId.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Buffer.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/DateTime.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_util.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\erase_if.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\gen_util.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/allocator.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\overloaded.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\shared_function.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/to_string.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sstream
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\future
@@ -417,89 +417,89 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocmon
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xloctime
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\codecvt
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/wrapper.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/wrapper.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cassert
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/list.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util\hashing.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/ISerializable.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Identities.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IUnknownInstance.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/RdAny.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization\DefaultAbstractDeclaration.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/unordered_map.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/list.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util\hashing.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/ISerializable.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Identities.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IUnknownInstance.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/RdAny.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization\DefaultAbstractDeclaration.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/unordered_map.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\unordered_set
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IWire.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/base/interfaces.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IRdReactive.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdBindable.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdWireable.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/Property.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IProperty.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\SignalX.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\SignalCookie.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\IPropertyBase.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime/SequentialLifetimes.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/SerializationCtx.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IWire.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/base/interfaces.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IRdReactive.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdBindable.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdWireable.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/Property.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IProperty.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\SignalX.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\SignalCookie.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\IPropertyBase.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime/SequentialLifetimes.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/SerializationCtx.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\regex
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\intern/InternRoot.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/RdReactiveBase.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/RdBindableBase.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util\guards.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\intern\InternScheduler.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/InternedAnySerializer.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/SerializationCtx.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdSignal.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/Polymorphic.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdProperty.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/RdPropertyBase.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdList.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/ViewableList.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IViewableList.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\viewable_collections.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdSet.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/ViewableSet.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IViewableSet.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdMap.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/ViewableMap.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IViewableMap.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/ISerializersOwner.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/NullableSerializer.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/AbstractPolymorphic.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util\framework_traits.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/ArraySerializer.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/InternedSerializer.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\ext/RdExtBase.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\ext\ExtWire.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\intern/InternRoot.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/RdReactiveBase.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/RdBindableBase.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util\guards.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\intern\InternScheduler.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/InternedAnySerializer.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/SerializationCtx.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdSignal.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/Polymorphic.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdProperty.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/RdPropertyBase.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdList.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/ViewableList.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IViewableList.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\viewable_collections.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdSet.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/ViewableSet.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IViewableSet.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdMap.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/ViewableMap.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IViewableMap.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/ISerializersOwner.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/NullableSerializer.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/AbstractPolymorphic.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util\framework_traits.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/ArraySerializer.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/InternedSerializer.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\ext/RdExtBase.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\ext\ExtWire.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\queue
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task/RdCall.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\RdTask.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\RdTaskImpl.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\RdTaskResult.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler/SynchronousScheduler.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\WiredRdTask.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\WiredRdTaskImpl.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task/RdEndpoint.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task/RdSymmetricCall.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/enum.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol\instantiations_RdEditorRoot.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/UnrealLogEvent.Generated.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\instantiations_UE4Library.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\UE4TypesMarshallers.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/LogMessageInfo.Generated.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/StringRange.Generated.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/BlueprintReference.Generated.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/UClass.Generated.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/PlayState.Generated.h
-F:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/RequestResultBase.Generated.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Math/IntPoint.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadSingleton.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\HAL/TlsAutoCleanup.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/DateTime.h
-F:/UnrealProjects/CounterStrike/Plugins/Developer/RiderLink/Source/RiderLogging/Private/RiderOutputDevice.cpp
-F:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceRedirector.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task/RdCall.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\RdTask.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\RdTaskImpl.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\RdTaskResult.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler/SynchronousScheduler.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\WiredRdTask.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\WiredRdTaskImpl.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task/RdEndpoint.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task/RdSymmetricCall.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/enum.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol\instantiations_RdEditorRoot.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/UnrealLogEvent.Generated.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\instantiations_UE4Library.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\UE4TypesMarshallers.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/LogMessageInfo.Generated.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/StringRange.Generated.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/BlueprintReference.Generated.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/UClass.Generated.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/PlayState.Generated.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/RequestResultBase.Generated.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/IntPoint.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/ThreadSingleton.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/TlsAutoCleanup.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/DateTime.h
+U:/UnrealProjects/CounterStrike/Plugins/Developer/RiderLink/Source/RiderLogging/Private/RiderOutputDevice.cpp
+U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceRedirector.h
