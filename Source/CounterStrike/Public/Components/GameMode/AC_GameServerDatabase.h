@@ -55,6 +55,7 @@ private:
 	UFUNCTION(BlueprintCallable)
 	void ConnectToServer();
 
+	UFUNCTION(BlueprintCallable)
 	void ShutDownServer();
 	
 	UFUNCTION()
