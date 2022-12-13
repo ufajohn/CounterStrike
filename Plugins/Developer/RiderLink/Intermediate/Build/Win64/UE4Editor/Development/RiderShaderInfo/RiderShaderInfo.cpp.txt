@@ -1,52 +1,52 @@
-U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderShaderInfo\Definitions.h
-U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RiderShaderInfo\RiderShaderInfo.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\CoreTypes.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/Platform.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Build.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
+I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderShaderInfo\Definitions.h
+I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RiderShaderInfo\RiderShaderInfo.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\CoreTypes.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/Platform.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Build.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sal.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\concurrencysal.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/VarArgs.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/OutputDevice.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\CoreFwd.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Traits/IsContiguousContainer.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/VarArgs.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDevice.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\CoreFwd.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Traits/IsContiguousContainer.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\initializer_list
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\yvals_core.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vadefs.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xkeycheck.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstddef
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtr1common
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\UObject/UObjectHierarchyFwd.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Logging/LogVerbosity.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsValidVariadicFunctionArg.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates\IsEnum.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/AndOrNot.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/AssertionMacros.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformMisc.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMisc.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformCrt.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/UObjectHierarchyFwd.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogVerbosity.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsValidVariadicFunctionArg.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates\IsEnum.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/AndOrNot.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/AssertionMacros.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformMisc.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMisc.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformCrt.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\new
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\exception
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\yvals.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\crtdbg.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_new_debug.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_new.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\crtdefs.h
@@ -56,47 +56,47 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdint.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstddef
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdlib
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdlib.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_search.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdlib.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\malloc.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_exception.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\eh.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\errno.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_string.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wctype.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wprocess.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstring.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/stat.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/types.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdio.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdarg.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/CompressionFlags.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/NumericLimits.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMisc.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformMemory.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMemory.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMemory.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsSystemIncludes.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/MinimalWindowsApi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\float.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memory.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CompressionFlags.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/NumericLimits.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMisc.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformMemory.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMemory.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMemory.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsSystemIncludes.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/MinimalWindowsApi.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.inl.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\setjmp.h
@@ -111,349 +111,349 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\mmintrin.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\zmmintrin.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ammintrin.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\tchar.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\intsafe.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winapifamily.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winpackagefamily.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\specstrings.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\specstrings_strict.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\specstrings_undef.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\driverspecs.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdv_driverspecs.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\strsafe.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CpuProfilerTrace.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Trace.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\TraceLog\Public\Trace/Config.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.inl
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/EnableIf.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/UnrealMemory.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsPointer.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/MemoryBase.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformAtomics.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAtomics.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAtomics.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Exec.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Atomic.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter64.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsIntegral.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsTrivial.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyDestructible.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyConstructible.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyAssignable.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Traits/IntType.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsArithmetic.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsArray.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/UnrealTypeTraits.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/AreTypesEqual.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/RemoveCV.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Traits/IsVoidType.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Models.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Identity.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsPODType.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/UnrealTemplate.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersAndRefsFromTo.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersFromTo.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/RemoveReference.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/TypeCompatibleBytes.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/Array.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsSigned.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/ContainerAllocationPolicies.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformMath.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMath.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMath.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Microsoft/MicrosoftPlatformMath.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE4.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/MemoryOps.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsPolymorphic.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/Archive.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsEnumClass.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Function.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/ChooseClass.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Decay.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Invoke.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/PointerIsConvertibleFromTo.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/StaticAssertCompleteType.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/LosesQualifiersFromTo.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsConstructible.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsInvocable.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsMemberPointer.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsFloatingPoint.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformProperties.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProperties.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProperties.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/EngineVersionBase.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceFwd.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/MemoryImageWriter.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/MemoryLayout.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/EnumAsByte.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/TypeHash.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Crc.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Char.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wctype.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/CString.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformString.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformString.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/MicrosoftPlatformString.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformString.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStricmp.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/StringFwd.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/DelayedAutoRegister.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/Heapify.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/Impl/BinaryHeap.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/ReversePredicate.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IdentityFunctor.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Less.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/HeapSort.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/IsHeap.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Sorting.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/BinarySearch.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/Sort.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/IntroSort.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/AlignmentTemplates.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/StringFormatArg.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/DateTime.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Timespan.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Interval.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchive.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchiveFormatter.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization\Formatters/BinaryArchiveFormatter.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Optional.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Concepts/Insertable.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/UniqueObj.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/UniquePtr.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/RemoveExtent.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/EnumClassFlags.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\CoreMinimal.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IntegralConstant.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsClass.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Compression.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\UObject/NameTypes.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/CriticalSection.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/StringConv.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\UObject/UnrealNames.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\UObject\UnrealNames.inl
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/StringBuilder.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/StringView.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers\StringView.inl
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/FrameNumber.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Parse.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Color.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/StructBuilder.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/ScriptArray.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/BitArray.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/Set.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/RetainedRef.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Algo/Reverse.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/Map.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/Tuple.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/IntegerSequence.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\tchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\intsafe.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winpackagefamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\strsafe.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CpuProfilerTrace.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Trace.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\TraceLog\Public\Trace/Config.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.inl
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/EnableIf.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/UnrealMemory.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsPointer.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/MemoryBase.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformAtomics.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAtomics.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAtomics.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Exec.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Atomic.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter64.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsIntegral.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsTrivial.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyDestructible.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyConstructible.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyAssignable.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Traits/IntType.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsArithmetic.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsArray.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/UnrealTypeTraits.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/AreTypesEqual.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/RemoveCV.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Traits/IsVoidType.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Models.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Identity.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsPODType.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/UnrealTemplate.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersAndRefsFromTo.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersFromTo.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/RemoveReference.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/TypeCompatibleBytes.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Array.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsSigned.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ContainerAllocationPolicies.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformMath.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMath.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMath.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Microsoft/MicrosoftPlatformMath.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE4.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/MemoryOps.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsPolymorphic.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/Archive.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsEnumClass.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Function.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/ChooseClass.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Decay.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Invoke.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/PointerIsConvertibleFromTo.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/StaticAssertCompleteType.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/LosesQualifiersFromTo.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsConstructible.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsInvocable.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsMemberPointer.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsFloatingPoint.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformProperties.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProperties.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProperties.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/EngineVersionBase.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceFwd.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryImageWriter.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryLayout.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/EnumAsByte.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/TypeHash.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Crc.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Char.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wctype.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CString.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformString.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformString.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/MicrosoftPlatformString.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformString.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStricmp.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/StringFwd.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/DelayedAutoRegister.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Heapify.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Impl/BinaryHeap.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/ReversePredicate.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IdentityFunctor.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Less.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/HeapSort.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/IsHeap.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Sorting.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/BinarySearch.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Sort.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/IntroSort.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/AlignmentTemplates.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/StringFormatArg.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/DateTime.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Timespan.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Interval.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchive.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchiveFormatter.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization\Formatters/BinaryArchiveFormatter.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Optional.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Concepts/Insertable.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/UniqueObj.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/UniquePtr.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/RemoveExtent.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/EnumClassFlags.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\CoreMinimal.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IntegralConstant.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsClass.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Compression.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/NameTypes.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/CriticalSection.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/StringConv.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/UnrealNames.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject\UnrealNames.inl
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/StringBuilder.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/StringView.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers\StringView.inl
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FrameNumber.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Parse.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Color.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/StructBuilder.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ScriptArray.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/BitArray.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Set.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/RetainedRef.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Reverse.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Map.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Tuple.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/IntegerSequence.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\tuple
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xutility
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\climits
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstring
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\utility
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/ColorList.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/IntPoint.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/IntVector.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Logging/LogCategory.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Logging/LogScopedCategoryAndVerbosityOverride.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Logging/LogTrace.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\ProfilingDebugging/FormatArgsTrace.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Vector2D.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/IntRect.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/ByteSwap.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformTLS.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTLS.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTLS.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\CoreGlobals.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/SharedPointerInternals.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/SharedPointerTesting.inl
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Internationalization/CulturePointer.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\UObject/WeakObjectPtrTemplates.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/DelegateSettings.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/IDelegateInstance.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/DelegateBase.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/MulticastDelegateBase.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/Delegate.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstanceInterface.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstancesImpl.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/IsConst.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Delegates/DelegateCombinations.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManager.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/ArrayView.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Internationalization/TextKey.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Internationalization/LocTesting.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Internationalization/LocKeyFuncs.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Internationalization/LocalizedTextSourceTypes.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Internationalization/Text.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Internationalization/StringTableCoreFwd.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Internationalization/ITextData.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Internationalization/Internationalization.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Vector.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Axis.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Vector4.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/VectorRegister.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/UnrealMathSSE.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/sse_mathfun.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorConstants.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorCommon.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/TwoVectors.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Edge.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\UObject/ObjectVersion.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Plane.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Sphere.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/CapsuleShape.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Rotator.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/RangeBound.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/AutomationEvent.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Guid.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Hash/CityHash.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Range.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/RangeSet.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Box.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Box2D.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/BoxSphereBounds.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/OrientedBox.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Matrix.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Matrix.inl
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/RotationTranslationMatrix.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/RotationAboutPointMatrix.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/ScaleRotationTranslationMatrix.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/RotationMatrix.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Quat.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/PerspectiveMatrix.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/OrthoMatrix.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/TranslationMatrix.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/QuatRotationTranslationMatrix.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/InverseRotationMatrix.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/ScaleMatrix.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/MirrorMatrix.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/ClipProjectionMatrix.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/InterpCurvePoint.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/InterpCurve.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/CurveEdInterface.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Float32.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Float16.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Float16Color.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Vector2DHalf.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Transform.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/ScalarRegister.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/TransformVectorized.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/TransformNonVectorized.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/ConvexHull2d.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/UnrealMath.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Math/Ray.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/MemoryWriter.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/ThreadSingleton.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/TlsAutoCleanup.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RenderCore\Public\ShaderCore.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Stats/Stats.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformTime.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTime.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTime.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Stats\StatsCommon.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Stats/Stats2.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemTracker.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/LockFreeList.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/NoopCounter.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/PlatformProcess.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProcess.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProcess.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/ChunkedArray.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/IndirectArray.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\ProfilingDebugging/MiscTrace.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Stats\StatsTrace.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/RefCounting.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/SecureHash.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Async/AsyncWork.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/Event.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/IQueuedWork.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/QueuedThreadPool.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAffinity.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/BufferReader.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\String/BytesToHex.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\String/HexToBytes.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Paths.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RenderCore\Public\UniformBuffer.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMacros.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMetadata.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/List.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/StaticArray.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RHI\Public\RHI.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RHI\Public\RHIDefinitions.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\PixelFormat.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\HAL/IConsoleManager.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Features/IModularFeature.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RHI\Public\MultiGPU.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RHI\Public\RHIValidationCommon.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RHI\Public\RHIResources.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Async/TaskGraphInterfaces.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/LockFreeFixedSizeAllocator.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/MemStack.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/ColorList.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/IntPoint.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/IntVector.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogCategory.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogScopedCategoryAndVerbosityOverride.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogTrace.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/FormatArgsTrace.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Vector2D.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/IntRect.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ByteSwap.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformTLS.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTLS.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTLS.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\CoreGlobals.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/SharedPointerInternals.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/SharedPointerTesting.inl
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/CulturePointer.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/WeakObjectPtrTemplates.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateSettings.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/IDelegateInstance.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateBase.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/MulticastDelegateBase.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/Delegate.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstanceInterface.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstancesImpl.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsConst.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateCombinations.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManager.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ArrayView.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextKey.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/LocTesting.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/LocKeyFuncs.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/LocalizedTextSourceTypes.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/Text.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/StringTableCoreFwd.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/ITextData.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/Internationalization.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Vector.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Axis.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Vector4.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/VectorRegister.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealMathSSE.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/sse_mathfun.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorConstants.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorCommon.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/TwoVectors.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Edge.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/ObjectVersion.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Plane.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Sphere.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/CapsuleShape.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Rotator.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/RangeBound.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/AutomationEvent.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Guid.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Hash/CityHash.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Range.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/RangeSet.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Box.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Box2D.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/BoxSphereBounds.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/OrientedBox.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Matrix.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Matrix.inl
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/RotationTranslationMatrix.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/RotationAboutPointMatrix.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/ScaleRotationTranslationMatrix.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/RotationMatrix.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Quat.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/PerspectiveMatrix.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/OrthoMatrix.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/TranslationMatrix.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/QuatRotationTranslationMatrix.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/InverseRotationMatrix.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/ScaleMatrix.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/MirrorMatrix.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/ClipProjectionMatrix.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/InterpCurvePoint.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/InterpCurve.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/CurveEdInterface.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Float32.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Float16.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Float16Color.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Vector2DHalf.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Transform.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/ScalarRegister.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/TransformVectorized.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/TransformNonVectorized.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/ConvexHull2d.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealMath.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Ray.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryWriter.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadSingleton.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/TlsAutoCleanup.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ShaderCore.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Stats/Stats.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformTime.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTime.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTime.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Stats\StatsCommon.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Stats/Stats2.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemTracker.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/LockFreeList.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/NoopCounter.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformProcess.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProcess.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProcess.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ChunkedArray.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/IndirectArray.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/MiscTrace.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Stats\StatsTrace.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/RefCounting.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/SecureHash.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Async/AsyncWork.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/Event.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/IQueuedWork.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/QueuedThreadPool.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAffinity.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferReader.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\String/BytesToHex.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\String/HexToBytes.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\UniformBuffer.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMacros.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMetadata.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/List.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/StaticArray.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHI.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIDefinitions.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\PixelFormat.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/IConsoleManager.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Features/IModularFeature.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\MultiGPU.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIValidationCommon.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIResources.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Async/TaskGraphInterfaces.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/LockFreeFixedSizeAllocator.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MemStack.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\typeinfo
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RHI\Public\DynamicRHI.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RHI\Public\RHIContext.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RHI\Public\RHIUtilities.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RHI\Public\RHICommandList.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/App.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/CommandLine.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc\TVariantMeta.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/Queue.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Async/Future.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Misc/ScopeLock.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\DynamicRHI.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIContext.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIUtilities.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHICommandList.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/App.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CommandLine.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc\TVariantMeta.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Queue.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Async/Future.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ScopeLock.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xatomic.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xthreads.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtimec.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ctime
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RenderCore\Public\RenderResource.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
-U:\UnrealEngine-4.27-plus\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderResource.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
+I:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h

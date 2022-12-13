@@ -66,10 +66,10 @@ private:
 
 	UFUNCTION()
 	void ResponseGetServerInfoFromDB(const FServerPrivateInfo& Info);
-	
+
 	FString ServerAddress;
 	int32 ServerPort;
-	
+	FString CreateProcessURL;
 	FString CreateServerURL;
 	FString RemoveServerURL;
 	FString GetIPAddressURL;
@@ -101,3 +101,6 @@ private:
 	FCallbackRequestGameServerAddress CallbackRequestGameServerAddress;
 		
 };
+
+
+

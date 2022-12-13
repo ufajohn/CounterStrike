@@ -23,10 +23,10 @@ UCLASS()
 class COUNTERSTRIKE_API UWebRequestBase : public UObject
 {
 	GENERATED_BODY()
-	
-protected:	
+public:
 	bool CallWebScript(const FString& ScriptURL, TSharedPtr<FJsonObject>& JsonRequest, EWebRequestType RequestType = EWebRequestType::Post);
 	
+protected:	
 	TSharedPtr<FJsonObject> CreateJsonRequest();
 	
 	virtual void CallJsonResponse(const TSharedPtr<FJsonObject>& JsonResponse) {};

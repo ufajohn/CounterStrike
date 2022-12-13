@@ -2,6 +2,8 @@
 
 
 #include "Components/GameMode/AC_GameServerDatabase.h"
+
+#include "Classes/WebRequestBaseBP.h"
 #include "Classes/Callbacks/Cb_CreateServerInDatabase.h"
 #include "Classes/Callbacks/Cb_RequestGetServerInfoFromDB.h"
 #include "Classes/WebRequests/WebRequestCreateGameServer.h"
