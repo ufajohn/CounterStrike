@@ -1,2 +1,2 @@
-I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\Definitions.h
-I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src\RdTextBuffer.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\Definitions.h
+U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src\RdTextBuffer.h

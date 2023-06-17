@@ -32,34 +32,34 @@
 /wd4244
 /wd4838
 /I .
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src"
-/I "I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include"
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src
+/I U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-"I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\SequentialLifetimes.cpp"
-/FI"I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\Definitions.h"
-/Fo"I:\UNREAL PROJECTS\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\SequentialLifetimes.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
+"U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\SequentialLifetimes.cpp"
+/FI"U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\Definitions.h"
+/Fo"U:\UnrealProjects\CounterStrike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\SequentialLifetimes.cpp.obj"
 /TP
 /GR
 /W4
