@@ -42,6 +42,17 @@ void ATank::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	// Получить ввод пользователя
+	float MoveForwardValue = GetInputAxisValue("MoveForward");
+	float RotateRightValue = GetInputAxisValue("RotateRight");
+
+	// Переместить танк вперед/назад
+	FVector MoveDirection = GetActorForwardVector();
+	AddMovementInput(MoveDirection, MoveForwardValue * MoveSpeed);
+
+	// Вращение танка по оси Y
+	FRotator RotateDirection = FRotator(0.0f, RotateRightValue * RotateSpeed, 0.0f);
+	AddActorLocalRotation(RotateDirection);
 }
 
 // Called to bind functionality to input
